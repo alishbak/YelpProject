@@ -1,0 +1,5732 @@
+[
+    {
+        "term": "indian_food", 
+        "restaurants": [
+            {
+                "count": 8, 
+                "rating": 4.0, 
+                "id": "krazi-kebob-college-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.5, 
+                "id": "food-factory-college-park-2"
+            }, 
+            {
+                "count": 3, 
+                "rating": 4.0, 
+                "id": "rasoi-restaurant-college-park"
+            }, 
+            {
+                "count": 78, 
+                "rating": 4.0, 
+                "id": "spice-6-modern-indian-hyattsville"
+            }, 
+            {
+                "count": 55, 
+                "rating": 4.0, 
+                "id": "tiffin-takoma-park"
+            }, 
+            {
+                "count": 85, 
+                "rating": 4.0, 
+                "id": "woodlands-indian-restaurant-langley-park-2"
+            }, 
+            {
+                "count": 53, 
+                "rating": 4.0, 
+                "id": "jewel-of-india-silver-spring"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.0, 
+                "id": "tabeer-hyattsville"
+            }
+        ]
+    }, 
+    {
+        "term": "second_time", 
+        "restaurants": [
+            {
+                "count": 4, 
+                "rating": 3.0, 
+                "id": "kangnam-bbq-sports-bar-and-grill-college-park"
+            }, 
+            {
+                "count": 5, 
+                "rating": 3.5, 
+                "id": "silver-diner-greenbelt"
+            }, 
+            {
+                "count": 2, 
+                "rating": 4.0, 
+                "id": "busboys-and-poets-hyattsville?start=280"
+            }, 
+            {
+                "count": 1, 
+                "rating": 3.0, 
+                "id": "mulligans-grill-and-pub-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 4.0, 
+                "id": "la-fondita-hyattsville"
+            }, 
+            {
+                "count": 1, 
+                "rating": 2.5, 
+                "id": "los-antojitos-hyattsville"
+            }
+        ]
+    }, 
+    {
+        "term": "pizza_hut", 
+        "restaurants": [
+            {
+                "count": 11, 
+                "rating": 2.0, 
+                "id": "pizza-hut-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.5, 
+                "id": "dominos-pizza-hyattsville-4"
+            }, 
+            {
+                "count": 5, 
+                "rating": 2.5, 
+                "id": "pizza-hut-silver-spring-5"
+            }, 
+            {
+                "count": 10, 
+                "rating": 1.5, 
+                "id": "pizza-hut-hyattsville"
+            }, 
+            {
+                "count": 9, 
+                "rating": 2.0, 
+                "id": "pizza-hut-hyattsville-4"
+            }
+        ]
+    }, 
+    {
+        "term": "crab_legs", 
+        "restaurants": [
+            {
+                "count": 5, 
+                "rating": 3.0, 
+                "id": "sakura-seafood-and-supreme-buffet-college-park"
+            }, 
+            {
+                "count": 4, 
+                "rating": 2.5, 
+                "id": "china-buffet-college-park"
+            }, 
+            {
+                "count": 25, 
+                "rating": 2.5, 
+                "id": "joes-crab-shack-greenbelt"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.5, 
+                "id": "moose-creek-steakhouse-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 4.0, 
+                "id": "mid-atlantic-seafood-hyattsville"
+            }
+        ]
+    }, 
+    {
+        "term": "customer_service", 
+        "restaurants": [
+            {
+                "count": 2, 
+                "rating": 4.0, 
+                "id": "pupuseria-la-familiar-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 4.0, 
+                "id": "potbelly-sandwich-shop-college-park-2"
+            }, 
+            {
+                "count": 8, 
+                "rating": 3.5, 
+                "id": "dp-dough-college-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.5, 
+                "id": "noodles-and-company-college-park-2"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.0, 
+                "id": "platos-diner-college-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.0, 
+                "id": "shanghai-tokyo-cafe-college-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.0, 
+                "id": "chipotle-mexican-grill-college-park"
+            }, 
+            {
+                "count": 4, 
+                "rating": 3.0, 
+                "id": "clucksters-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 4.0, 
+                "id": "jimmy-johns-college-park"
+            }, 
+            {
+                "count": 10, 
+                "rating": 3.5, 
+                "id": "the-jerk-pit-college-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.0, 
+                "id": "pizza-kingdom-college-park"
+            }, 
+            {
+                "count": 17, 
+                "rating": 3.5, 
+                "id": "carolina-kitchen-bar-and-grill-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.0, 
+                "id": "dennys-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 4.0, 
+                "id": "dumms-pizza-and-subs-riverdale"
+            }, 
+            {
+                "count": 4, 
+                "rating": 3.0, 
+                "id": "old-dominion-brewhouse-hyattsville"
+            }, 
+            {
+                "count": 4, 
+                "rating": 2.0, 
+                "id": "pizza-bolis-college-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.0, 
+                "id": "outback-steakhouse-hyattsville-2"
+            }, 
+            {
+                "count": 10, 
+                "rating": 4.5, 
+                "id": "unforgettable-flavors-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 4.0, 
+                "id": "busboys-and-poets-hyattsville?start=280"
+            }, 
+            {
+                "count": 2, 
+                "rating": 1.5, 
+                "id": "dominos-pizza-college-park-2"
+            }, 
+            {
+                "count": 5, 
+                "rating": 3.0, 
+                "id": "olive-garden-italian-restaurant-hyattsville-2"
+            }, 
+            {
+                "count": 3, 
+                "rating": 4.0, 
+                "id": "jersey-mikes-subs-greenbelt-2"
+            }, 
+            {
+                "count": 6, 
+                "rating": 3.5, 
+                "id": "elevation-burger-hyattsville"
+            }, 
+            {
+                "count": 3, 
+                "rating": 1.5, 
+                "id": "popeyes-greenbelt"
+            }, 
+            {
+                "count": 4, 
+                "rating": 2.5, 
+                "id": "tara-thai-hyattsville"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.0, 
+                "id": "chipotle-mexican-grill-hyattsville"
+            }, 
+            {
+                "count": 3, 
+                "rating": 4.5, 
+                "id": "arbys-hyattsville"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.0, 
+                "id": "golden-krust-hyattsville"
+            }, 
+            {
+                "count": 7, 
+                "rating": 2.5, 
+                "id": "tgi-fridays-greenbelt-3"
+            }, 
+            {
+                "count": 10, 
+                "rating": 3.0, 
+                "id": "buffalo-wild-wings-college-park"
+            }, 
+            {
+                "count": 5, 
+                "rating": 3.0, 
+                "id": "yums-express-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 4.0, 
+                "id": "boston-market-greenbelt"
+            }, 
+            {
+                "count": 5, 
+                "rating": 4.0, 
+                "id": "sardis-pollo-a-la-brasa-takoma-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.0, 
+                "id": "new-york-deli-college-park-3"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.5, 
+                "id": "asian-carry-out-hyattsville"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.0, 
+                "id": "sarku-japan-college-park"
+            }, 
+            {
+                "count": 1, 
+                "rating": 2.0, 
+                "id": "popeyes-chicken-and-biscuits-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.0, 
+                "id": "bono-pizza-riverdale"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.0, 
+                "id": "subway-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.5, 
+                "id": "cheesesteak-mikes-silver-spring"
+            }, 
+            {
+                "count": 1, 
+                "rating": 2.5, 
+                "id": "kfc-berwyn-heights"
+            }, 
+            {
+                "count": 4, 
+                "rating": 3.0, 
+                "id": "papa-johns-pizza-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.5, 
+                "id": "pizza-hut-silver-spring-5"
+            }, 
+            {
+                "count": 2, 
+                "rating": 1.5, 
+                "id": "pizza-hut-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.0, 
+                "id": "pizza-hut-hyattsville-4"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.0, 
+                "id": "philly-dawgz-silver-spring"
+            }, 
+            {
+                "count": 1, 
+                "rating": 3.0, 
+                "id": "eddys-carry-out-bladensburg"
+            }, 
+            {
+                "count": 2, 
+                "rating": 4.5, 
+                "id": "rebecca-ethiopian-cafe-and-grocery-hyattsville"
+            }, 
+            {
+                "count": 3, 
+                "rating": 1.5, 
+                "id": "china-fongs-carryout-hyattsville"
+            }
+        ]
+    }, 
+    {
+        "term": "sweet_potato", 
+        "restaurants": [
+            {
+                "count": 63, 
+                "rating": 3.0, 
+                "id": "bobbys-burger-palace-college-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.0, 
+                "id": "cornerstone-grill-and-loft-college-park"
+            }, 
+            {
+                "count": 6, 
+                "rating": 3.5, 
+                "id": "silver-diner-greenbelt"
+            }, 
+            {
+                "count": 4, 
+                "rating": 4.0, 
+                "id": "busboys-and-poets-hyattsville?start=280"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.0, 
+                "id": "mulligans-grill-and-pub-college-park"
+            }
+        ]
+    }, 
+    {
+        "term": "chicken_wings", 
+        "restaurants": [
+            {
+                "count": 2, 
+                "rating": 3.5, 
+                "id": "three-brothers-caterers-greenbelt"
+            }, 
+            {
+                "count": 4, 
+                "rating": 4.0, 
+                "id": "new-century-carry-out-and-resturant-hyattsville"
+            }, 
+            {
+                "count": 5, 
+                "rating": 2.0, 
+                "id": "wings-to-go-greenbelt-2"
+            }, 
+            {
+                "count": 4, 
+                "rating": 4.5, 
+                "id": "szechuan-delight-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 4.0, 
+                "id": "joes-restaurant-mount-rainier"
+            }
+        ]
+    }, 
+    {
+        "term": "pg_plaza", 
+        "restaurants": [
+            {
+                "count": 2, 
+                "rating": 4.0, 
+                "id": "kingston-arbor-hyattsville"
+            }, 
+            {
+                "count": 1, 
+                "rating": 3.5, 
+                "id": "a-and-d-buffalos-hyattsville"
+            }, 
+            {
+                "count": 1, 
+                "rating": 4.0, 
+                "id": "steak-escape-hyattsville-2"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.0, 
+                "id": "golden-krust-hyattsville"
+            }, 
+            {
+                "count": 1, 
+                "rating": 3.0, 
+                "id": "flamers-charbroiled-hyattsville"
+            }
+        ]
+    }, 
+    {
+        "term": "new_york", 
+        "restaurants": [
+            {
+                "count": 6, 
+                "rating": 3.5, 
+                "id": "slices-pizza-co-college-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.0, 
+                "id": "pizza-kingdom-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.5, 
+                "id": "pizza-autentica-college-park"
+            }, 
+            {
+                "count": 7, 
+                "rating": 3.0, 
+                "id": "mamma-lucia-pizza-and-pasta-college-park"
+            }, 
+            {
+                "count": 13, 
+                "rating": 3.0, 
+                "id": "new-york-deli-college-park-3"
+            }
+        ]
+    }, 
+    {
+        "term": "feel_like", 
+        "restaurants": [
+            {
+                "count": 3, 
+                "rating": 4.0, 
+                "id": "blaze-fast-fired-pizza-college-park-2"
+            }, 
+            {
+                "count": 4, 
+                "rating": 3.5, 
+                "id": "food-factory-college-park-2"
+            }, 
+            {
+                "count": 7, 
+                "rating": 3.5, 
+                "id": "hanami-japanese-restaurant-college-park"
+            }, 
+            {
+                "count": 4, 
+                "rating": 3.0, 
+                "id": "chipotle-mexican-grill-college-park"
+            }, 
+            {
+                "count": 4, 
+                "rating": 2.0, 
+                "id": "r-j-bentleys-restaurant-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 4.0, 
+                "id": "el-taco-rico-greenbelt"
+            }, 
+            {
+                "count": 3, 
+                "rating": 4.0, 
+                "id": "chipotle-mexican-grill-greenbelt"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.5, 
+                "id": "pupuseria-el-comalito-riverdale-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 4.0, 
+                "id": "cafe-azul-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.5, 
+                "id": "asian-carry-out-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.5, 
+                "id": "zhengs-restaurant-riverdale"
+            }
+        ]
+    }, 
+    {
+        "term": "great_food", 
+        "restaurants": [
+            {
+                "count": 6, 
+                "rating": 3.5, 
+                "id": "looneys-pub-college-park"
+            }, 
+            {
+                "count": 4, 
+                "rating": 3.5, 
+                "id": "nuvegan-caf\u00e9-college-park"
+            }, 
+            {
+                "count": 11, 
+                "rating": 4.5, 
+                "id": "shagga-coffee-and-restaurant-hyattsville"
+            }, 
+            {
+                "count": 3, 
+                "rating": 4.0, 
+                "id": "busboys-and-poets-hyattsville?start=280"
+            }, 
+            {
+                "count": 1, 
+                "rating": 3.5, 
+                "id": "a-and-d-buffalos-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.5, 
+                "id": "potbelly-sandwich-shop-college-park-3"
+            }, 
+            {
+                "count": 1, 
+                "rating": 5.0, 
+                "id": "taqueria-tres-reyes-hyattsville-2"
+            }, 
+            {
+                "count": 1, 
+                "rating": 3.0, 
+                "id": "burger-king-hyattsville-2"
+            }, 
+            {
+                "count": 1, 
+                "rating": 3.5, 
+                "id": "mcdonalds-riverdale"
+            }
+        ]
+    }, 
+    {
+        "term": "chicken_salad", 
+        "restaurants": [
+            {
+                "count": 4, 
+                "rating": 4.5, 
+                "id": "maryland-food-collective-college-park-2"
+            }, 
+            {
+                "count": 3, 
+                "rating": 4.0, 
+                "id": "potbelly-sandwich-shop-college-park-2"
+            }, 
+            {
+                "count": 9, 
+                "rating": 3.5, 
+                "id": "jasons-deli-college-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 4.0, 
+                "id": "saladworks-college-park"
+            }, 
+            {
+                "count": 4, 
+                "rating": 4.0, 
+                "id": "chicken-rico-hyattsville"
+            }
+        ]
+    }, 
+    {
+        "term": "first_time", 
+        "restaurants": [
+            {
+                "count": 5, 
+                "rating": 4.0, 
+                "id": "the-board-and-brew-college-park-4"
+            }, 
+            {
+                "count": 4, 
+                "rating": 4.0, 
+                "id": "blaze-fast-fired-pizza-college-park-2"
+            }, 
+            {
+                "count": 7, 
+                "rating": 4.0, 
+                "id": "ovo-simply-veggie-college-park"
+            }, 
+            {
+                "count": 9, 
+                "rating": 3.5, 
+                "id": "pho-d-lite-college-park"
+            }, 
+            {
+                "count": 10, 
+                "rating": 4.0, 
+                "id": "krazi-kebob-college-park"
+            }, 
+            {
+                "count": 7, 
+                "rating": 3.5, 
+                "id": "ledo-restaurant-college-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.5, 
+                "id": "dp-dough-college-park"
+            }, 
+            {
+                "count": 6, 
+                "rating": 3.5, 
+                "id": "jasons-deli-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.5, 
+                "id": "sweetgreen-college-park"
+            }, 
+            {
+                "count": 5, 
+                "rating": 3.5, 
+                "id": "wasabi-bistro-college-park"
+            }, 
+            {
+                "count": 7, 
+                "rating": 3.0, 
+                "id": "ivy-noodles-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.0, 
+                "id": "clucksters-college-park"
+            }, 
+            {
+                "count": 9, 
+                "rating": 3.5, 
+                "id": "the-jerk-pit-college-park"
+            }, 
+            {
+                "count": 5, 
+                "rating": 3.5, 
+                "id": "nuvegan-caf\u00e9-college-park"
+            }, 
+            {
+                "count": 4, 
+                "rating": 3.5, 
+                "id": "bonchon-hyattsville-7"
+            }, 
+            {
+                "count": 12, 
+                "rating": 3.5, 
+                "id": "carolina-kitchen-bar-and-grill-hyattsville"
+            }, 
+            {
+                "count": 6, 
+                "rating": 4.0, 
+                "id": "siris-chef-secret-greenbelt"
+            }, 
+            {
+                "count": 11, 
+                "rating": 4.5, 
+                "id": "shagga-coffee-and-restaurant-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.0, 
+                "id": "dennys-college-park"
+            }, 
+            {
+                "count": 12, 
+                "rating": 3.5, 
+                "id": "silver-diner-greenbelt"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.5, 
+                "id": "qdoba-mexican-grill-hyattsville"
+            }, 
+            {
+                "count": 8, 
+                "rating": 4.5, 
+                "id": "unforgettable-flavors-college-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.5, 
+                "id": "pupuseria-el-comalito-riverdale-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.5, 
+                "id": "five-guys-burgers-and-fries-hyattsville"
+            }, 
+            {
+                "count": 5, 
+                "rating": 3.5, 
+                "id": "hard-times-cafe-college-park"
+            }, 
+            {
+                "count": 12, 
+                "rating": 4.0, 
+                "id": "spice-6-modern-indian-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 4.0, 
+                "id": "pollo-oro-hyattsville"
+            }, 
+            {
+                "count": 3, 
+                "rating": 2.0, 
+                "id": "burger-king-college-park"
+            }, 
+            {
+                "count": 4, 
+                "rating": 2.5, 
+                "id": "tara-thai-hyattsville"
+            }, 
+            {
+                "count": 5, 
+                "rating": 3.0, 
+                "id": "mamma-lucia-pizza-and-pasta-college-park"
+            }, 
+            {
+                "count": 7, 
+                "rating": 4.0, 
+                "id": "tiffin-takoma-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.0, 
+                "id": "ihop-college-park"
+            }, 
+            {
+                "count": 1, 
+                "rating": 2.5, 
+                "id": "los-antojitos-hyattsville"
+            }, 
+            {
+                "count": 6, 
+                "rating": 3.0, 
+                "id": "buffalo-wild-wings-college-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.0, 
+                "id": "yums-express-college-park"
+            }, 
+            {
+                "count": 4, 
+                "rating": 4.0, 
+                "id": "caribbean-palace-takoma-park"
+            }, 
+            {
+                "count": 4, 
+                "rating": 3.0, 
+                "id": "new-york-deli-college-park-3"
+            }, 
+            {
+                "count": 1, 
+                "rating": 1.0, 
+                "id": "ruby-thai-kitchen-hyattsville"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.0, 
+                "id": "sarku-japan-college-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.5, 
+                "id": "potbelly-sandwich-shop-college-park-3"
+            }, 
+            {
+                "count": 5, 
+                "rating": 4.0, 
+                "id": "viet-pho-and-grill-silver-spring"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.0, 
+                "id": "golden-china-restaurant-hyattsville"
+            }, 
+            {
+                "count": 9, 
+                "rating": 4.0, 
+                "id": "jewel-of-india-silver-spring"
+            }, 
+            {
+                "count": 1, 
+                "rating": 2.5, 
+                "id": "house-of-china-riverdale"
+            }, 
+            {
+                "count": 2, 
+                "rating": 4.0, 
+                "id": "tacos-cinco-de-mayo-hyattsville"
+            }, 
+            {
+                "count": 3, 
+                "rating": 2.5, 
+                "id": "ikea-restaurant-and-cafe-college-park"
+            }, 
+            {
+                "count": 1, 
+                "rating": 3.5, 
+                "id": "quiznos-silver-spring-6"
+            }, 
+            {
+                "count": 2, 
+                "rating": 4.5, 
+                "id": "rebecca-ethiopian-cafe-and-grocery-hyattsville"
+            }
+        ]
+    }, 
+    {
+        "term": "orange_chicken", 
+        "restaurants": [
+            {
+                "count": 2, 
+                "rating": 4.5, 
+                "id": "king-kong-restaurant-hyattsville"
+            }, 
+            {
+                "count": 8, 
+                "rating": 3.5, 
+                "id": "panda-express-college-park-2"
+            }, 
+            {
+                "count": 5, 
+                "rating": 3.0, 
+                "id": "shen-yang-chinese-restaurant-college-park"
+            }, 
+            {
+                "count": 1, 
+                "rating": 3.5, 
+                "id": "no-1-china-takoma-park"
+            }, 
+            {
+                "count": 1, 
+                "rating": 2.0, 
+                "id": "panda-express-college-park"
+            }
+        ]
+    }, 
+    {
+        "term": "delivery_guy", 
+        "restaurants": [
+            {
+                "count": 3, 
+                "rating": 2.0, 
+                "id": "pizza-bolis-college-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 1.5, 
+                "id": "dominos-pizza-college-park-2"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.0, 
+                "id": "bono-pizza-riverdale"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.0, 
+                "id": "tonys-villa-pizza-takoma-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.5, 
+                "id": "eastern-carryout-silver-spring-2"
+            }
+        ]
+    }, 
+    {
+        "term": "20_minutes", 
+        "restaurants": [
+            {
+                "count": 2, 
+                "rating": 4.0, 
+                "id": "jimmy-johns-college-park"
+            }, 
+            {
+                "count": 5, 
+                "rating": 2.0, 
+                "id": "applebees-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.5, 
+                "id": "five-guys-burgers-and-fries-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.5, 
+                "id": "pizza-autentica-college-park"
+            }, 
+            {
+                "count": 6, 
+                "rating": 3.0, 
+                "id": "olive-garden-italian-restaurant-hyattsville-2"
+            }, 
+            {
+                "count": 6, 
+                "rating": 2.5, 
+                "id": "joes-crab-shack-greenbelt"
+            }, 
+            {
+                "count": 4, 
+                "rating": 3.0, 
+                "id": "ihop-college-park"
+            }, 
+            {
+                "count": 5, 
+                "rating": 2.5, 
+                "id": "tgi-fridays-greenbelt-3"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.0, 
+                "id": "papa-johns-pizza-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.0, 
+                "id": "pizza-hut-hyattsville-4"
+            }, 
+            {
+                "count": 1, 
+                "rating": 1.0, 
+                "id": "hunan-hut-hyattsville"
+            }
+        ]
+    }, 
+    {
+        "term": "come_back", 
+        "restaurants": [
+            {
+                "count": 3, 
+                "rating": 4.0, 
+                "id": "blaze-fast-fired-pizza-college-park-2"
+            }, 
+            {
+                "count": 8, 
+                "rating": 4.0, 
+                "id": "krazi-kebob-college-park"
+            }, 
+            {
+                "count": 10, 
+                "rating": 4.0, 
+                "id": "fishnet-college-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 4.0, 
+                "id": "pupuseria-la-familiar-college-park"
+            }, 
+            {
+                "count": 7, 
+                "rating": 3.5, 
+                "id": "ledo-restaurant-college-park"
+            }, 
+            {
+                "count": 5, 
+                "rating": 3.5, 
+                "id": "pho-thom-college-park"
+            }, 
+            {
+                "count": 6, 
+                "rating": 3.5, 
+                "id": "looneys-pub-college-park"
+            }, 
+            {
+                "count": 7, 
+                "rating": 3.0, 
+                "id": "kangnam-bbq-sports-bar-and-grill-college-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.5, 
+                "id": "slices-pizza-co-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.0, 
+                "id": "clucksters-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.5, 
+                "id": "the-common-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.5, 
+                "id": "terrapins-turf-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.0, 
+                "id": "dennys-college-park"
+            }, 
+            {
+                "count": 4, 
+                "rating": 3.0, 
+                "id": "old-dominion-brewhouse-hyattsville"
+            }, 
+            {
+                "count": 19, 
+                "rating": 4.0, 
+                "id": "franklins-restaurant-brewery-and-general-store-hyattsville"
+            }, 
+            {
+                "count": 5, 
+                "rating": 3.5, 
+                "id": "taqueria-tres-reyes-riverdale"
+            }, 
+            {
+                "count": 2, 
+                "rating": 1.5, 
+                "id": "popeyes-greenbelt"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.0, 
+                "id": "ihop-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 4.0, 
+                "id": "emeritas-pupuseria-and-carry-out-hyattsville"
+            }, 
+            {
+                "count": 11, 
+                "rating": 3.0, 
+                "id": "buffalo-wild-wings-college-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 2.5, 
+                "id": "season-buffet-hyattsville"
+            }
+        ]
+    }, 
+    {
+        "term": "college_park", 
+        "restaurants": [
+            {
+                "count": 7, 
+                "rating": 4.0, 
+                "id": "the-board-and-brew-college-park-4"
+            }, 
+            {
+                "count": 56, 
+                "rating": 4.5, 
+                "id": "marathon-deli-college-park"
+            }, 
+            {
+                "count": 10, 
+                "rating": 4.0, 
+                "id": "blaze-fast-fired-pizza-college-park-2"
+            }, 
+            {
+                "count": 21, 
+                "rating": 4.0, 
+                "id": "ovo-simply-veggie-college-park"
+            }, 
+            {
+                "count": 24, 
+                "rating": 3.5, 
+                "id": "pho-d-lite-college-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 4.5, 
+                "id": "maryland-food-collective-college-park-2"
+            }, 
+            {
+                "count": 24, 
+                "rating": 4.0, 
+                "id": "aroy-thai-restaurant-college-park"
+            }, 
+            {
+                "count": 20, 
+                "rating": 4.0, 
+                "id": "krazi-kebob-college-park"
+            }, 
+            {
+                "count": 30, 
+                "rating": 4.0, 
+                "id": "fishnet-college-park"
+            }, 
+            {
+                "count": 39, 
+                "rating": 3.5, 
+                "id": "ten-rens-tea-time-college-park-2"
+            }, 
+            {
+                "count": 11, 
+                "rating": 4.0, 
+                "id": "pupuseria-la-familiar-college-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 4.0, 
+                "id": "potbelly-sandwich-shop-college-park-2"
+            }, 
+            {
+                "count": 20, 
+                "rating": 3.5, 
+                "id": "ledo-restaurant-college-park"
+            }, 
+            {
+                "count": 20, 
+                "rating": 3.0, 
+                "id": "bobbys-burger-palace-college-park"
+            }, 
+            {
+                "count": 34, 
+                "rating": 3.5, 
+                "id": "pho-thom-college-park"
+            }, 
+            {
+                "count": 18, 
+                "rating": 3.5, 
+                "id": "dp-dough-college-park"
+            }, 
+            {
+                "count": 23, 
+                "rating": 3.5, 
+                "id": "looneys-pub-college-park"
+            }, 
+            {
+                "count": 11, 
+                "rating": 3.5, 
+                "id": "food-factory-college-park-2"
+            }, 
+            {
+                "count": 37, 
+                "rating": 3.5, 
+                "id": "hanami-japanese-restaurant-college-park"
+            }, 
+            {
+                "count": 13, 
+                "rating": 3.0, 
+                "id": "kangnam-bbq-sports-bar-and-grill-college-park"
+            }, 
+            {
+                "count": 6, 
+                "rating": 3.5, 
+                "id": "noodles-and-company-college-park-2"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.0, 
+                "id": "platos-diner-college-park"
+            }, 
+            {
+                "count": 18, 
+                "rating": 3.5, 
+                "id": "jasons-deli-college-park"
+            }, 
+            {
+                "count": 14, 
+                "rating": 3.0, 
+                "id": "shanghai-tokyo-cafe-college-park"
+            }, 
+            {
+                "count": 4, 
+                "rating": 3.5, 
+                "id": "sweetgreen-college-park"
+            }, 
+            {
+                "count": 7, 
+                "rating": 3.5, 
+                "id": "wasabi-bistro-college-park"
+            }, 
+            {
+                "count": 19, 
+                "rating": 3.5, 
+                "id": "slices-pizza-co-college-park"
+            }, 
+            {
+                "count": 22, 
+                "rating": 4.0, 
+                "id": "bagel-place-of-college-park-college-park?start=80"
+            }, 
+            {
+                "count": 10, 
+                "rating": 3.0, 
+                "id": "ivy-noodles-college-park"
+            }, 
+            {
+                "count": 4, 
+                "rating": 3.0, 
+                "id": "chipotle-mexican-grill-college-park"
+            }, 
+            {
+                "count": 6, 
+                "rating": 3.0, 
+                "id": "clucksters-college-park"
+            }, 
+            {
+                "count": 5, 
+                "rating": 4.0, 
+                "id": "jimmy-johns-college-park"
+            }, 
+            {
+                "count": 7, 
+                "rating": 3.5, 
+                "id": "terrapins-turf-college-park"
+            }, 
+            {
+                "count": 14, 
+                "rating": 4.0, 
+                "id": "college-park-diner-college-park"
+            }, 
+            {
+                "count": 13, 
+                "rating": 3.0, 
+                "id": "cornerstone-grill-and-loft-college-park"
+            }, 
+            {
+                "count": 11, 
+                "rating": 3.0, 
+                "id": "sakura-seafood-and-supreme-buffet-college-park"
+            }, 
+            {
+                "count": 5, 
+                "rating": 3.5, 
+                "id": "the-jerk-pit-college-park"
+            }, 
+            {
+                "count": 6, 
+                "rating": 3.5, 
+                "id": "nuvegan-caf\u00e9-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.0, 
+                "id": "pizza-kingdom-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 4.0, 
+                "id": "moby-dick-house-of-kabob-college-park"
+            }, 
+            {
+                "count": 18, 
+                "rating": 4.0, 
+                "id": "siris-chef-secret-greenbelt"
+            }, 
+            {
+                "count": 5, 
+                "rating": 2.0, 
+                "id": "applebees-college-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.5, 
+                "id": "five-guys-burgers-and-fries-college-park"
+            }, 
+            {
+                "count": 16, 
+                "rating": 3.5, 
+                "id": "pizza-autentica-college-park"
+            }, 
+            {
+                "count": 6, 
+                "rating": 4.5, 
+                "id": "shagga-coffee-and-restaurant-hyattsville"
+            }, 
+            {
+                "count": 6, 
+                "rating": 2.0, 
+                "id": "dennys-college-park"
+            }, 
+            {
+                "count": 6, 
+                "rating": 2.0, 
+                "id": "r-j-bentleys-restaurant-college-park"
+            }, 
+            {
+                "count": 4, 
+                "rating": 2.0, 
+                "id": "prince-caf\u00e9-college-park-2"
+            }, 
+            {
+                "count": 3, 
+                "rating": 4.0, 
+                "id": "pizza-mart-college-park"
+            }, 
+            {
+                "count": 7, 
+                "rating": 3.5, 
+                "id": "silver-diner-greenbelt"
+            }, 
+            {
+                "count": 10, 
+                "rating": 3.5, 
+                "id": "azteca-restaurant-cantina-college-park"
+            }, 
+            {
+                "count": 8, 
+                "rating": 3.5, 
+                "id": "kiyoko-express-college-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 4.0, 
+                "id": "chipotle-mexican-grill-greenbelt"
+            }, 
+            {
+                "count": 3, 
+                "rating": 4.0, 
+                "id": "rasoi-restaurant-college-park"
+            }, 
+            {
+                "count": 5, 
+                "rating": 2.0, 
+                "id": "pizza-bolis-college-park"
+            }, 
+            {
+                "count": 4, 
+                "rating": 2.5, 
+                "id": "china-buffet-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 1.5, 
+                "id": "dominos-pizza-college-park-2"
+            }, 
+            {
+                "count": 14, 
+                "rating": 4.0, 
+                "id": "franklins-restaurant-brewery-and-general-store-hyattsville"
+            }, 
+            {
+                "count": 5, 
+                "rating": 3.5, 
+                "id": "hard-times-cafe-college-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.5, 
+                "id": "irenes-pupusas-hyattsville"
+            }, 
+            {
+                "count": 5, 
+                "rating": 3.0, 
+                "id": "sir-walter-raleigh-inn-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 5.0, 
+                "id": "subway-college-park-2"
+            }, 
+            {
+                "count": 21, 
+                "rating": 3.0, 
+                "id": "mamma-lucia-pizza-and-pasta-college-park"
+            }, 
+            {
+                "count": 7, 
+                "rating": 3.0, 
+                "id": "chipotle-mexican-grill-hyattsville"
+            }, 
+            {
+                "count": 3, 
+                "rating": 4.0, 
+                "id": "chicken-rico-hyattsville"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.5, 
+                "id": "pho-75-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.5, 
+                "id": "boston-market-riverdale"
+            }, 
+            {
+                "count": 5, 
+                "rating": 3.5, 
+                "id": "pizza-roma-college-park"
+            }, 
+            {
+                "count": 7, 
+                "rating": 3.0, 
+                "id": "ihop-college-park"
+            }, 
+            {
+                "count": 9, 
+                "rating": 3.0, 
+                "id": "buffalo-wild-wings-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.5, 
+                "id": "mcdonalds-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.0, 
+                "id": "shen-yang-chinese-restaurant-college-park"
+            }, 
+            {
+                "count": 4, 
+                "rating": 3.0, 
+                "id": "sarku-japan-college-park"
+            }
+        ]
+    }, 
+    {
+        "term": "every_time", 
+        "restaurants": [
+            {
+                "count": 2, 
+                "rating": 4.0, 
+                "id": "pupuseria-la-familiar-college-park"
+            }, 
+            {
+                "count": 4, 
+                "rating": 3.5, 
+                "id": "wasabi-bistro-college-park"
+            }, 
+            {
+                "count": 14, 
+                "rating": 4.0, 
+                "id": "franklins-restaurant-brewery-and-general-store-hyattsville"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.5, 
+                "id": "hard-times-cafe-college-park"
+            }, 
+            {
+                "count": 1, 
+                "rating": 4.0, 
+                "id": "chips-and-deli-riverdale-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 4.0, 
+                "id": "new-century-carry-out-and-resturant-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.0, 
+                "id": "ihop-college-park"
+            }, 
+            {
+                "count": 1, 
+                "rating": 2.5, 
+                "id": "la-chiquita-restaurant-hyattsville-2"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.0, 
+                "id": "bono-pizza-riverdale"
+            }, 
+            {
+                "count": 1, 
+                "rating": 3.5, 
+                "id": "no-1-china-takoma-park"
+            }
+        ]
+    }, 
+    {
+        "term": "chicken_tenders", 
+        "restaurants": [
+            {
+                "count": 4, 
+                "rating": 3.0, 
+                "id": "clucksters-college-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.5, 
+                "id": "nuvegan-caf\u00e9-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.0, 
+                "id": "pizza-kingdom-college-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 2.0, 
+                "id": "applebees-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.5, 
+                "id": "moose-creek-steakhouse-college-park"
+            }, 
+            {
+                "count": 1, 
+                "rating": 2.0, 
+                "id": "popeyes-chicken-and-biscuits-hyattsville"
+            }, 
+            {
+                "count": 4, 
+                "rating": 2.5, 
+                "id": "ikea-restaurant-and-cafe-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.5, 
+                "id": "kfc-hyattsville-4"
+            }
+        ]
+    }, 
+    {
+        "term": "five_guys", 
+        "restaurants": [
+            {
+                "count": 28, 
+                "rating": 3.0, 
+                "id": "bobbys-burger-palace-college-park"
+            }, 
+            {
+                "count": 19, 
+                "rating": 3.5, 
+                "id": "five-guys-burgers-and-fries-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.5, 
+                "id": "qdoba-mexican-grill-hyattsville"
+            }, 
+            {
+                "count": 30, 
+                "rating": 3.5, 
+                "id": "five-guys-burgers-and-fries-hyattsville"
+            }, 
+            {
+                "count": 29, 
+                "rating": 3.5, 
+                "id": "elevation-burger-hyattsville"
+            }
+        ]
+    }, 
+    {
+        "term": "minutes_later", 
+        "restaurants": [
+            {
+                "count": 7, 
+                "rating": 3.5, 
+                "id": "ledo-restaurant-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.0, 
+                "id": "dennys-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.0, 
+                "id": "r-j-bentleys-restaurant-college-park"
+            }, 
+            {
+                "count": 8, 
+                "rating": 3.5, 
+                "id": "silver-diner-greenbelt"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.0, 
+                "id": "pizza-bolis-college-park"
+            }, 
+            {
+                "count": 7, 
+                "rating": 3.0, 
+                "id": "olive-garden-italian-restaurant-hyattsville-2"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.0, 
+                "id": "ihop-college-park"
+            }, 
+            {
+                "count": 4, 
+                "rating": 2.0, 
+                "id": "bono-pizza-riverdale"
+            }, 
+            {
+                "count": 1, 
+                "rating": 3.0, 
+                "id": "flamers-charbroiled-hyattsville"
+            }, 
+            {
+                "count": 3, 
+                "rating": 2.0, 
+                "id": "pizza-hut-hyattsville-4"
+            }
+        ]
+    }, 
+    {
+        "term": "miso_soup", 
+        "restaurants": [
+            {
+                "count": 14, 
+                "rating": 3.5, 
+                "id": "hanami-japanese-restaurant-college-park"
+            }, 
+            {
+                "count": 4, 
+                "rating": 3.0, 
+                "id": "shanghai-tokyo-cafe-college-park"
+            }, 
+            {
+                "count": 9, 
+                "rating": 3.5, 
+                "id": "wasabi-bistro-college-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.5, 
+                "id": "kiyoko-express-college-park"
+            }, 
+            {
+                "count": 5, 
+                "rating": 3.0, 
+                "id": "sarku-japan-college-park"
+            }
+        ]
+    }, 
+    {
+        "term": "lunch_buffet", 
+        "restaurants": [
+            {
+                "count": 4, 
+                "rating": 3.5, 
+                "id": "food-factory-college-park-2"
+            }, 
+            {
+                "count": 4, 
+                "rating": 3.0, 
+                "id": "kangnam-bbq-sports-bar-and-grill-college-park"
+            }, 
+            {
+                "count": 5, 
+                "rating": 4.0, 
+                "id": "rasoi-restaurant-college-park"
+            }, 
+            {
+                "count": 4, 
+                "rating": 2.5, 
+                "id": "china-buffet-college-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 2.0, 
+                "id": "tokyo-sushi-hyattsville"
+            }, 
+            {
+                "count": 34, 
+                "rating": 4.0, 
+                "id": "tiffin-takoma-park"
+            }, 
+            {
+                "count": 40, 
+                "rating": 4.0, 
+                "id": "woodlands-indian-restaurant-langley-park-2"
+            }, 
+            {
+                "count": 51, 
+                "rating": 4.0, 
+                "id": "jewel-of-india-silver-spring"
+            }
+        ]
+    }, 
+    {
+        "term": "college_students", 
+        "restaurants": [
+            {
+                "count": 2, 
+                "rating": 4.0, 
+                "id": "potbelly-sandwich-shop-college-park-2"
+            }, 
+            {
+                "count": 4, 
+                "rating": 3.5, 
+                "id": "looneys-pub-college-park"
+            }, 
+            {
+                "count": 5, 
+                "rating": 3.0, 
+                "id": "kangnam-bbq-sports-bar-and-grill-college-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 2.0, 
+                "id": "r-j-bentleys-restaurant-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.0, 
+                "id": "prince-caf\u00e9-college-park-2"
+            }
+        ]
+    }, 
+    {
+        "term": "dont_like", 
+        "restaurants": [
+            {
+                "count": 3, 
+                "rating": 3.5, 
+                "id": "dp-dough-college-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.0, 
+                "id": "cornerstone-grill-and-loft-college-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.0, 
+                "id": "olive-garden-italian-restaurant-hyattsville-2"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.5, 
+                "id": "la-sirenita-restaurant-hyattsville"
+            }, 
+            {
+                "count": 1, 
+                "rating": 2.0, 
+                "id": "panda-express-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.5, 
+                "id": "pizza-bolis-hyattsville"
+            }
+        ]
+    }, 
+    {
+        "term": "make_sure", 
+        "restaurants": [
+            {
+                "count": 10, 
+                "rating": 4.5, 
+                "id": "marathon-deli-college-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.0, 
+                "id": "chipotle-mexican-grill-college-park"
+            }, 
+            {
+                "count": 6, 
+                "rating": 3.0, 
+                "id": "old-dominion-brewhouse-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.5, 
+                "id": "irenes-pupusas-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 1.5, 
+                "id": "popeyes-greenbelt"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.0, 
+                "id": "golden-china-restaurant-hyattsville"
+            }
+        ]
+    }, 
+    {
+        "term": "happy_hour", 
+        "restaurants": [
+            {
+                "count": 17, 
+                "rating": 3.5, 
+                "id": "pho-d-lite-college-park"
+            }, 
+            {
+                "count": 27, 
+                "rating": 3.5, 
+                "id": "looneys-pub-college-park"
+            }, 
+            {
+                "count": 1, 
+                "rating": 3.5, 
+                "id": "the-common-hyattsville"
+            }, 
+            {
+                "count": 1, 
+                "rating": 3.5, 
+                "id": "terrapins-turf-college-park"
+            }, 
+            {
+                "count": 35, 
+                "rating": 3.0, 
+                "id": "cornerstone-grill-and-loft-college-park"
+            }, 
+            {
+                "count": 10, 
+                "rating": 3.5, 
+                "id": "carolina-kitchen-bar-and-grill-hyattsville"
+            }, 
+            {
+                "count": 5, 
+                "rating": 2.0, 
+                "id": "applebees-college-park"
+            }, 
+            {
+                "count": 1, 
+                "rating": 3.5, 
+                "id": "five-guys-burgers-and-fries-college-park"
+            }, 
+            {
+                "count": 1, 
+                "rating": 4.5, 
+                "id": "s-and-j-restaurant-riverdale"
+            }, 
+            {
+                "count": 22, 
+                "rating": 3.0, 
+                "id": "old-dominion-brewhouse-hyattsville"
+            }, 
+            {
+                "count": 1, 
+                "rating": 3.0, 
+                "id": "el-amate-hyattsville"
+            }, 
+            {
+                "count": 14, 
+                "rating": 4.0, 
+                "id": "franklins-restaurant-brewery-and-general-store-hyattsville"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.5, 
+                "id": "hard-times-cafe-college-park"
+            }, 
+            {
+                "count": 9, 
+                "rating": 2.5, 
+                "id": "tgi-fridays-greenbelt-3"
+            }, 
+            {
+                "count": 8, 
+                "rating": 3.0, 
+                "id": "buffalo-wild-wings-college-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 4.0, 
+                "id": "mid-atlantic-seafood-hyattsville"
+            }, 
+            {
+                "count": 1, 
+                "rating": 3.0, 
+                "id": "pike-rotisserie-and-grill-hyattsville"
+            }
+        ]
+    }, 
+    {
+        "term": "fried_chicken", 
+        "restaurants": [
+            {
+                "count": 2, 
+                "rating": 4.5, 
+                "id": "el-catrachito-silver-spring"
+            }, 
+            {
+                "count": 5, 
+                "rating": 3.0, 
+                "id": "clucksters-college-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.5, 
+                "id": "nuvegan-caf\u00e9-college-park"
+            }, 
+            {
+                "count": 12, 
+                "rating": 3.5, 
+                "id": "bonchon-hyattsville-7"
+            }, 
+            {
+                "count": 29, 
+                "rating": 3.5, 
+                "id": "carolina-kitchen-bar-and-grill-hyattsville"
+            }, 
+            {
+                "count": 4, 
+                "rating": 1.5, 
+                "id": "popeyes-greenbelt"
+            }, 
+            {
+                "count": 2, 
+                "rating": 4.0, 
+                "id": "new-century-carry-out-and-resturant-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.5, 
+                "id": "golden-house-5-hyattsville"
+            }, 
+            {
+                "count": 1, 
+                "rating": 2.5, 
+                "id": "popeyes-famous-fried-chicken-hyattsville-2"
+            }, 
+            {
+                "count": 2, 
+                "rating": 4.0, 
+                "id": "mid-atlantic-seafood-hyattsville"
+            }, 
+            {
+                "count": 7, 
+                "rating": 3.5, 
+                "id": "pollo-campero-takoma-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.5, 
+                "id": "popeyes-hyattsville-2"
+            }
+        ]
+    }, 
+    {
+        "term": "looks_like", 
+        "restaurants": [
+            {
+                "count": 2, 
+                "rating": 3.5, 
+                "id": "the-common-hyattsville"
+            }, 
+            {
+                "count": 6, 
+                "rating": 4.5, 
+                "id": "shagga-coffee-and-restaurant-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.0, 
+                "id": "prince-caf\u00e9-college-park-2"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.5, 
+                "id": "pho-75-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.0, 
+                "id": "tonys-villa-pizza-takoma-park"
+            }, 
+            {
+                "count": 1, 
+                "rating": 4.0, 
+                "id": "las-delicias-restaurant-buffet-hyattsville"
+            }
+        ]
+    }, 
+    {
+        "term": "next_door", 
+        "restaurants": [
+            {
+                "count": 2, 
+                "rating": 3.5, 
+                "id": "sweetgreen-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.0, 
+                "id": "pizza-kingdom-college-park"
+            }, 
+            {
+                "count": 1, 
+                "rating": 3.0, 
+                "id": "adele-h-stamp-student-union-college-park"
+            }, 
+            {
+                "count": 6, 
+                "rating": 2.5, 
+                "id": "joes-crab-shack-greenbelt"
+            }, 
+            {
+                "count": 25, 
+                "rating": 4.0, 
+                "id": "franklins-restaurant-brewery-and-general-store-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.0, 
+                "id": "tokyo-sushi-hyattsville"
+            }, 
+            {
+                "count": 1, 
+                "rating": 3.0, 
+                "id": "jimmy-johns-hyattsville"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.5, 
+                "id": "pizza-roma-college-park"
+            }, 
+            {
+                "count": 1, 
+                "rating": 4.0, 
+                "id": "emeritas-pupuseria-and-carry-out-hyattsville"
+            }, 
+            {
+                "count": 1, 
+                "rating": 2.5, 
+                "id": "china-golden-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.5, 
+                "id": "season-buffet-hyattsville"
+            }, 
+            {
+                "count": 1, 
+                "rating": 4.5, 
+                "id": "el-marinero-takoma-park"
+            }, 
+            {
+                "count": 1, 
+                "rating": 3.0, 
+                "id": "tabeer-hyattsville"
+            }, 
+            {
+                "count": 1, 
+                "rating": 1.0, 
+                "id": "asian-restaurant-riverdale"
+            }
+        ]
+    }, 
+    {
+        "term": "carne_asada", 
+        "restaurants": [
+            {
+                "count": 4, 
+                "rating": 4.0, 
+                "id": "el-taco-rico-greenbelt"
+            }, 
+            {
+                "count": 22, 
+                "rating": 3.5, 
+                "id": "taqueria-tres-reyes-riverdale"
+            }, 
+            {
+                "count": 2, 
+                "rating": 4.0, 
+                "id": "taqueria-el-mexicano-hyattsville"
+            }, 
+            {
+                "count": 16, 
+                "rating": 4.0, 
+                "id": "taqueria-la-placita-hyattsville"
+            }, 
+            {
+                "count": 8, 
+                "rating": 4.0, 
+                "id": "la-fondita-hyattsville"
+            }, 
+            {
+                "count": 3, 
+                "rating": 4.0, 
+                "id": "sardis-pollo-a-la-brasa-takoma-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.0, 
+                "id": "acapulco-spirit-restaurant-hyattsville"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.5, 
+                "id": "la-sirenita-restaurant-hyattsville"
+            }, 
+            {
+                "count": 7, 
+                "rating": 4.0, 
+                "id": "tacos-cinco-de-mayo-hyattsville"
+            }
+        ]
+    }, 
+    {
+        "term": "general_tsos", 
+        "restaurants": [
+            {
+                "count": 8, 
+                "rating": 3.0, 
+                "id": "shanghai-cafe-chinese-restaurant-college-park"
+            }, 
+            {
+                "count": 4, 
+                "rating": 3.0, 
+                "id": "ivy-noodles-college-park"
+            }, 
+            {
+                "count": 6, 
+                "rating": 3.0, 
+                "id": "sakura-seafood-and-supreme-buffet-college-park"
+            }, 
+            {
+                "count": 4, 
+                "rating": 4.5, 
+                "id": "king-kong-restaurant-hyattsville"
+            }, 
+            {
+                "count": 5, 
+                "rating": 2.5, 
+                "id": "china-buffet-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.0, 
+                "id": "tokyo-sushi-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.5, 
+                "id": "eddies-cafe-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 4.0, 
+                "id": "super-japan-greenbelt"
+            }, 
+            {
+                "count": 6, 
+                "rating": 3.0, 
+                "id": "yums-express-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.0, 
+                "id": "shen-yang-chinese-restaurant-college-park"
+            }, 
+            {
+                "count": 5, 
+                "rating": 3.0, 
+                "id": "golden-china-restaurant-hyattsville"
+            }, 
+            {
+                "count": 1, 
+                "rating": 1.0, 
+                "id": "hunan-hut-hyattsville"
+            }
+        ]
+    }, 
+    {
+        "term": "good_pizza", 
+        "restaurants": [
+            {
+                "count": 3, 
+                "rating": 4.0, 
+                "id": "blaze-fast-fired-pizza-college-park-2"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.0, 
+                "id": "pizza-kingdom-college-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.5, 
+                "id": "pizza-autentica-college-park"
+            }, 
+            {
+                "count": 10, 
+                "rating": 3.0, 
+                "id": "mamma-lucia-pizza-and-pasta-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 4.5, 
+                "id": "pizza-oven-riverdale"
+            }, 
+            {
+                "count": 3, 
+                "rating": 2.0, 
+                "id": "papa-johns-pizza-college-park"
+            }, 
+            {
+                "count": 1, 
+                "rating": 3.0, 
+                "id": "three-brothers-italian-restaurant-hyattsville"
+            }
+        ]
+    }, 
+    {
+        "term": "5_stars", 
+        "restaurants": [
+            {
+                "count": 3, 
+                "rating": 3.0, 
+                "id": "clucksters-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 4.0, 
+                "id": "jimmy-johns-college-park"
+            }, 
+            {
+                "count": 4, 
+                "rating": 3.5, 
+                "id": "pho-75-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 4.0, 
+                "id": "new-century-carry-out-and-resturant-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.5, 
+                "id": "pho-301-restaurant-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.5, 
+                "id": "la-sirenita-restaurant-hyattsville"
+            }
+        ]
+    }, 
+    {
+        "term": "dont_feel", 
+        "restaurants": [
+            {
+                "count": 1, 
+                "rating": 4.0, 
+                "id": "la-chiquita-restaurant-hyattsville-3"
+            }, 
+            {
+                "count": 4, 
+                "rating": 3.5, 
+                "id": "elevation-burger-hyattsville"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.5, 
+                "id": "pho-75-hyattsville"
+            }, 
+            {
+                "count": 1, 
+                "rating": 4.0, 
+                "id": "emeritas-pupuseria-and-carry-out-hyattsville"
+            }, 
+            {
+                "count": 1, 
+                "rating": 2.5, 
+                "id": "asian-carry-out-hyattsville"
+            }, 
+            {
+                "count": 1, 
+                "rating": 2.5, 
+                "id": "house-of-china-riverdale"
+            }
+        ]
+    }, 
+    {
+        "term": "mashed_potatoes", 
+        "restaurants": [
+            {
+                "count": 18, 
+                "rating": 3.5, 
+                "id": "carolina-kitchen-bar-and-grill-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.5, 
+                "id": "boston-market-riverdale"
+            }, 
+            {
+                "count": 9, 
+                "rating": 3.0, 
+                "id": "urban-bar-b-que-silver-spring-4"
+            }, 
+            {
+                "count": 4, 
+                "rating": 2.5, 
+                "id": "ikea-restaurant-and-cafe-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.5, 
+                "id": "kfc-hyattsville-4"
+            }
+        ]
+    }, 
+    {
+        "term": "green_curry", 
+        "restaurants": [
+            {
+                "count": 31, 
+                "rating": 4.0, 
+                "id": "ovo-simply-veggie-college-park"
+            }, 
+            {
+                "count": 6, 
+                "rating": 3.5, 
+                "id": "pho-thom-college-park"
+            }, 
+            {
+                "count": 5, 
+                "rating": 3.0, 
+                "id": "shanghai-tokyo-cafe-college-park"
+            }, 
+            {
+                "count": 13, 
+                "rating": 4.0, 
+                "id": "siris-chef-secret-greenbelt"
+            }, 
+            {
+                "count": 4, 
+                "rating": 2.5, 
+                "id": "tara-thai-hyattsville"
+            }
+        ]
+    }, 
+    {
+        "term": "kung_pao", 
+        "restaurants": [
+            {
+                "count": 11, 
+                "rating": 4.0, 
+                "id": "ovo-simply-veggie-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 4.0, 
+                "id": "new-century-carry-out-and-resturant-hyattsville"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.0, 
+                "id": "yums-express-college-park"
+            }, 
+            {
+                "count": 5, 
+                "rating": 3.0, 
+                "id": "shen-yang-chinese-restaurant-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.5, 
+                "id": "house-of-china-riverdale"
+            }
+        ]
+    }, 
+    {
+        "term": "ice_cream", 
+        "restaurants": [
+            {
+                "count": 5, 
+                "rating": 3.5, 
+                "id": "hanami-japanese-restaurant-college-park"
+            }, 
+            {
+                "count": 39, 
+                "rating": 3.5, 
+                "id": "jasons-deli-college-park"
+            }, 
+            {
+                "count": 25, 
+                "rating": 3.0, 
+                "id": "sakura-seafood-and-supreme-buffet-college-park"
+            }, 
+            {
+                "count": 5, 
+                "rating": 3.5, 
+                "id": "azteca-restaurant-cantina-college-park"
+            }, 
+            {
+                "count": 6, 
+                "rating": 2.5, 
+                "id": "china-buffet-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.5, 
+                "id": "adeles-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 4.0, 
+                "id": "busboys-and-poets-hyattsville?start=280"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.5, 
+                "id": "pizza-roma-college-park"
+            }, 
+            {
+                "count": 1, 
+                "rating": 3.0, 
+                "id": "basils-pizza-adelphi"
+            }, 
+            {
+                "count": 3, 
+                "rating": 2.5, 
+                "id": "tgi-fridays-greenbelt-3"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.5, 
+                "id": "season-buffet-hyattsville"
+            }
+        ]
+    }, 
+    {
+        "term": "speak_english", 
+        "restaurants": [
+            {
+                "count": 1, 
+                "rating": 4.0, 
+                "id": "la-chiquita-restaurant-hyattsville-3"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.0, 
+                "id": "pizza-bolis-college-park"
+            }, 
+            {
+                "count": 4, 
+                "rating": 4.0, 
+                "id": "taqueria-la-placita-hyattsville"
+            }, 
+            {
+                "count": 1, 
+                "rating": 1.5, 
+                "id": "wendys-greenbelt"
+            }, 
+            {
+                "count": 1, 
+                "rating": 3.0, 
+                "id": "el-rey-taqueria-and-rostiseria-riverdale"
+            }, 
+            {
+                "count": 1, 
+                "rating": 4.0, 
+                "id": "leylas-cafe-hyattsville-3"
+            }
+        ]
+    }, 
+    {
+        "term": "3_stars", 
+        "restaurants": [
+            {
+                "count": 3, 
+                "rating": 4.0, 
+                "id": "busboys-and-poets-hyattsville?start=280"
+            }, 
+            {
+                "count": 1, 
+                "rating": 3.0, 
+                "id": "mulligans-grill-and-pub-college-park"
+            }, 
+            {
+                "count": 1, 
+                "rating": 3.0, 
+                "id": "basils-pizza-adelphi"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.0, 
+                "id": "sarku-japan-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.5, 
+                "id": "checkers-hyattsville"
+            }
+        ]
+    }, 
+    {
+        "term": "cheese_steak", 
+        "restaurants": [
+            {
+                "count": 2, 
+                "rating": 4.0, 
+                "id": "dumms-pizza-and-subs-riverdale"
+            }, 
+            {
+                "count": 1, 
+                "rating": 4.5, 
+                "id": "pizza-oven-riverdale"
+            }, 
+            {
+                "count": 4, 
+                "rating": 3.5, 
+                "id": "pizza-roma-college-park"
+            }, 
+            {
+                "count": 11, 
+                "rating": 3.5, 
+                "id": "cheesesteak-mikes-silver-spring"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.0, 
+                "id": "heartys-2-hyattsville"
+            }, 
+            {
+                "count": 1, 
+                "rating": 3.0, 
+                "id": "eddys-carry-out-bladensburg"
+            }
+        ]
+    }, 
+    {
+        "term": "pizza_place", 
+        "restaurants": [
+            {
+                "count": 3, 
+                "rating": 4.0, 
+                "id": "blaze-fast-fired-pizza-college-park-2"
+            }, 
+            {
+                "count": 7, 
+                "rating": 3.5, 
+                "id": "slices-pizza-co-college-park"
+            }, 
+            {
+                "count": 6, 
+                "rating": 4.0, 
+                "id": "dumms-pizza-and-subs-riverdale"
+            }, 
+            {
+                "count": 6, 
+                "rating": 3.0, 
+                "id": "mamma-lucia-pizza-and-pasta-college-park"
+            }, 
+            {
+                "count": 5, 
+                "rating": 3.5, 
+                "id": "pizza-roma-college-park"
+            }
+        ]
+    }, 
+    {
+        "term": "fast_food", 
+        "restaurants": [
+            {
+                "count": 2, 
+                "rating": 4.0, 
+                "id": "potbelly-sandwich-shop-college-park-2"
+            }, 
+            {
+                "count": 4, 
+                "rating": 3.5, 
+                "id": "noodles-and-company-college-park-2"
+            }, 
+            {
+                "count": 2, 
+                "rating": 4.0, 
+                "id": "saladworks-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.5, 
+                "id": "five-guys-burgers-and-fries-hyattsville"
+            }, 
+            {
+                "count": 7, 
+                "rating": 3.5, 
+                "id": "elevation-burger-hyattsville"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.5, 
+                "id": "panda-express-college-park-2"
+            }, 
+            {
+                "count": 19, 
+                "rating": 4.0, 
+                "id": "spice-6-modern-indian-hyattsville"
+            }, 
+            {
+                "count": 3, 
+                "rating": 2.0, 
+                "id": "burger-king-college-park"
+            }, 
+            {
+                "count": 9, 
+                "rating": 4.5, 
+                "id": "arbys-hyattsville"
+            }, 
+            {
+                "count": 4, 
+                "rating": 1.5, 
+                "id": "wendys-riverdale"
+            }, 
+            {
+                "count": 2, 
+                "rating": 1.5, 
+                "id": "wendys-greenbelt"
+            }, 
+            {
+                "count": 9, 
+                "rating": 3.0, 
+                "id": "sarku-japan-college-park"
+            }, 
+            {
+                "count": 1, 
+                "rating": 5.0, 
+                "id": "cluck-university-chicken-the-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 4.0, 
+                "id": "mid-atlantic-seafood-hyattsville"
+            }, 
+            {
+                "count": 1, 
+                "rating": 3.0, 
+                "id": "sakura-japan-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 1.5, 
+                "id": "mcdonalds-riverdale-park"
+            }, 
+            {
+                "count": 1, 
+                "rating": 3.0, 
+                "id": "wendys-hyattsville-2"
+            }, 
+            {
+                "count": 4, 
+                "rating": 3.5, 
+                "id": "pollo-campero-takoma-park"
+            }, 
+            {
+                "count": 1, 
+                "rating": 5.0, 
+                "id": "wendys-hyattsville-3"
+            }, 
+            {
+                "count": 1, 
+                "rating": 3.5, 
+                "id": "mcdonalds-riverdale"
+            }, 
+            {
+                "count": 1, 
+                "rating": 2.0, 
+                "id": "manchu-wok-hyattsville"
+            }
+        ]
+    }, 
+    {
+        "term": "didnt_even", 
+        "restaurants": [
+            {
+                "count": 5, 
+                "rating": 3.0, 
+                "id": "kangnam-bbq-sports-bar-and-grill-college-park"
+            }, 
+            {
+                "count": 4, 
+                "rating": 2.0, 
+                "id": "applebees-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.0, 
+                "id": "pizza-bolis-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.5, 
+                "id": "moose-creek-steakhouse-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.0, 
+                "id": "golden-china-restaurant-hyattsville"
+            }
+        ]
+    }, 
+    {
+        "term": "ill_definitely", 
+        "restaurants": [
+            {
+                "count": 3, 
+                "rating": 4.0, 
+                "id": "blaze-fast-fired-pizza-college-park-2"
+            }, 
+            {
+                "count": 3, 
+                "rating": 4.0, 
+                "id": "bagel-place-of-college-park-college-park?start=80"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.5, 
+                "id": "nuvegan-caf\u00e9-college-park"
+            }, 
+            {
+                "count": 1, 
+                "rating": 4.5, 
+                "id": "jodeem-african-cuisine-greenbelt"
+            }, 
+            {
+                "count": 2, 
+                "rating": 4.0, 
+                "id": "tacos-cinco-de-mayo-hyattsville"
+            }
+        ]
+    }, 
+    {
+        "term": "good_food", 
+        "restaurants": [
+            {
+                "count": 5, 
+                "rating": 3.5, 
+                "id": "looneys-pub-college-park"
+            }, 
+            {
+                "count": 4, 
+                "rating": 2.0, 
+                "id": "r-j-bentleys-restaurant-college-park"
+            }, 
+            {
+                "count": 1, 
+                "rating": 4.5, 
+                "id": "king-kong-restaurant-hyattsville"
+            }, 
+            {
+                "count": 21, 
+                "rating": 4.0, 
+                "id": "franklins-restaurant-brewery-and-general-store-hyattsville"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.5, 
+                "id": "hard-times-cafe-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.5, 
+                "id": "irenes-pupusas-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 4.5, 
+                "id": "arbys-hyattsville"
+            }, 
+            {
+                "count": 1, 
+                "rating": 3.5, 
+                "id": "no-1-china-takoma-park"
+            }
+        ]
+    }, 
+    {
+        "term": "shopping_center", 
+        "restaurants": [
+            {
+                "count": 3, 
+                "rating": 3.5, 
+                "id": "eddies-cafe-college-park"
+            }, 
+            {
+                "count": 4, 
+                "rating": 3.5, 
+                "id": "pizza-roma-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.0, 
+                "id": "wings-to-go-greenbelt-2"
+            }, 
+            {
+                "count": 1, 
+                "rating": 4.0, 
+                "id": "el-sitio-riverdale-park"
+            }, 
+            {
+                "count": 5, 
+                "rating": 4.0, 
+                "id": "viet-pho-and-grill-silver-spring"
+            }, 
+            {
+                "count": 13, 
+                "rating": 4.0, 
+                "id": "jewel-of-india-silver-spring"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.0, 
+                "id": "tabeer-hyattsville"
+            }, 
+            {
+                "count": 1, 
+                "rating": 2.0, 
+                "id": "international-buffet-hyattsville"
+            }
+        ]
+    }, 
+    {
+        "term": "onion_rings", 
+        "restaurants": [
+            {
+                "count": 57, 
+                "rating": 3.0, 
+                "id": "bobbys-burger-palace-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 4.0, 
+                "id": "dumms-pizza-and-subs-riverdale"
+            }, 
+            {
+                "count": 31, 
+                "rating": 4.0, 
+                "id": "franklins-restaurant-brewery-and-general-store-hyattsville"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.5, 
+                "id": "hard-times-cafe-college-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.0, 
+                "id": "new-york-deli-college-park-3"
+            }
+        ]
+    }, 
+    {
+        "term": "drive_thru", 
+        "restaurants": [
+            {
+                "count": 1, 
+                "rating": 4.0, 
+                "id": "taco-bell-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 1.5, 
+                "id": "popeyes-greenbelt"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.0, 
+                "id": "burger-king-college-park"
+            }, 
+            {
+                "count": 4, 
+                "rating": 2.5, 
+                "id": "checkers-drive-in-berwyn-heights"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.0, 
+                "id": "don-pollo-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.0, 
+                "id": "mcdonalds-greenbelt"
+            }, 
+            {
+                "count": 2, 
+                "rating": 1.5, 
+                "id": "wendys-greenbelt"
+            }, 
+            {
+                "count": 1, 
+                "rating": 2.0, 
+                "id": "silver-moon-cafe-greenbelt"
+            }, 
+            {
+                "count": 2, 
+                "rating": 1.5, 
+                "id": "mcdonalds-riverdale-park"
+            }
+        ]
+    }, 
+    {
+        "term": "good_service", 
+        "restaurants": [
+            {
+                "count": 6, 
+                "rating": 4.0, 
+                "id": "college-park-diner-college-park"
+            }, 
+            {
+                "count": 1, 
+                "rating": 4.5, 
+                "id": "5-bread-2-fish-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.0, 
+                "id": "outback-steakhouse-hyattsville-2"
+            }, 
+            {
+                "count": 3, 
+                "rating": 4.0, 
+                "id": "busboys-and-poets-hyattsville?start=280"
+            }, 
+            {
+                "count": 1, 
+                "rating": 4.0, 
+                "id": "los-laureles-hyattsville"
+            }
+        ]
+    }, 
+    {
+        "term": "tsos_chicken", 
+        "restaurants": [
+            {
+                "count": 7, 
+                "rating": 3.0, 
+                "id": "shanghai-cafe-chinese-restaurant-college-park"
+            }, 
+            {
+                "count": 5, 
+                "rating": 3.0, 
+                "id": "sakura-seafood-and-supreme-buffet-college-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 2.5, 
+                "id": "china-buffet-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.5, 
+                "id": "eddies-cafe-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.0, 
+                "id": "yums-express-college-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.0, 
+                "id": "golden-china-restaurant-hyattsville"
+            }
+        ]
+    }, 
+    {
+        "term": "pad_thai", 
+        "restaurants": [
+            {
+                "count": 25, 
+                "rating": 3.5, 
+                "id": "pho-d-lite-college-park"
+            }, 
+            {
+                "count": 38, 
+                "rating": 4.0, 
+                "id": "aroy-thai-restaurant-college-park"
+            }, 
+            {
+                "count": 24, 
+                "rating": 3.5, 
+                "id": "pho-thom-college-park"
+            }, 
+            {
+                "count": 10, 
+                "rating": 3.5, 
+                "id": "noodles-and-company-college-park-2"
+            }, 
+            {
+                "count": 9, 
+                "rating": 3.0, 
+                "id": "shanghai-tokyo-cafe-college-park"
+            }, 
+            {
+                "count": 5, 
+                "rating": 3.0, 
+                "id": "ivy-noodles-college-park"
+            }, 
+            {
+                "count": 36, 
+                "rating": 4.0, 
+                "id": "siris-chef-secret-greenbelt"
+            }, 
+            {
+                "count": 19, 
+                "rating": 2.5, 
+                "id": "tara-thai-hyattsville"
+            }, 
+            {
+                "count": 10, 
+                "rating": 4.0, 
+                "id": "viet-pho-and-grill-silver-spring"
+            }
+        ]
+    }, 
+    {
+        "term": "30_minutes", 
+        "restaurants": [
+            {
+                "count": 6, 
+                "rating": 3.5, 
+                "id": "the-jerk-pit-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.0, 
+                "id": "dennys-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.0, 
+                "id": "r-j-bentleys-restaurant-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 4.0, 
+                "id": "dumms-pizza-and-subs-riverdale"
+            }, 
+            {
+                "count": 5, 
+                "rating": 3.0, 
+                "id": "olive-garden-italian-restaurant-hyattsville-2"
+            }, 
+            {
+                "count": 6, 
+                "rating": 2.5, 
+                "id": "joes-crab-shack-greenbelt"
+            }, 
+            {
+                "count": 4, 
+                "rating": 2.5, 
+                "id": "tara-thai-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.0, 
+                "id": "ihop-college-park"
+            }, 
+            {
+                "count": 1, 
+                "rating": 2.5, 
+                "id": "jerrys-pizza-and-subs-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.0, 
+                "id": "pizza-hut-hyattsville-4"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.0, 
+                "id": "dominos-pizza-silver-spring-6"
+            }
+        ]
+    }, 
+    {
+        "term": "several_times", 
+        "restaurants": [
+            {
+                "count": 2, 
+                "rating": 2.0, 
+                "id": "dennys-college-park"
+            }, 
+            {
+                "count": 1, 
+                "rating": 3.0, 
+                "id": "jimmy-johns-hyattsville"
+            }, 
+            {
+                "count": 1, 
+                "rating": 3.5, 
+                "id": "dominos-pizza-berwyn-heights-2"
+            }, 
+            {
+                "count": 1, 
+                "rating": 2.0, 
+                "id": "wings-to-go-greenbelt-2"
+            }, 
+            {
+                "count": 1, 
+                "rating": 4.5, 
+                "id": "chicken-loco-peruvian-chicken-hyattsville"
+            }
+        ]
+    }, 
+    {
+        "term": "french_fries", 
+        "restaurants": [
+            {
+                "count": 8, 
+                "rating": 4.5, 
+                "id": "marathon-deli-college-park"
+            }, 
+            {
+                "count": 13, 
+                "rating": 4.0, 
+                "id": "fishnet-college-park"
+            }, 
+            {
+                "count": 9, 
+                "rating": 3.0, 
+                "id": "bobbys-burger-palace-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.5, 
+                "id": "five-guys-burgers-and-fries-college-park"
+            }, 
+            {
+                "count": 1, 
+                "rating": 3.0, 
+                "id": "eastern-carryout-riverdale"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.5, 
+                "id": "pollo-campero-takoma-park"
+            }
+        ]
+    }, 
+    {
+        "term": "chicken_sandwich", 
+        "restaurants": [
+            {
+                "count": 2, 
+                "rating": 3.0, 
+                "id": "platos-diner-college-park"
+            }, 
+            {
+                "count": 4, 
+                "rating": 3.0, 
+                "id": "clucksters-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.5, 
+                "id": "nuvegan-caf\u00e9-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.0, 
+                "id": "outback-steakhouse-hyattsville-2"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.0, 
+                "id": "mulligans-grill-and-pub-college-park"
+            }
+        ]
+    }, 
+    {
+        "term": "really_good", 
+        "restaurants": [
+            {
+                "count": 13, 
+                "rating": 4.5, 
+                "id": "marathon-deli-college-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 4.0, 
+                "id": "blaze-fast-fired-pizza-college-park-2"
+            }, 
+            {
+                "count": 12, 
+                "rating": 3.5, 
+                "id": "pho-d-lite-college-park"
+            }, 
+            {
+                "count": 10, 
+                "rating": 4.0, 
+                "id": "fishnet-college-park"
+            }, 
+            {
+                "count": 16, 
+                "rating": 3.5, 
+                "id": "ten-rens-tea-time-college-park-2"
+            }, 
+            {
+                "count": 14, 
+                "rating": 3.0, 
+                "id": "bobbys-burger-palace-college-park"
+            }, 
+            {
+                "count": 5, 
+                "rating": 3.5, 
+                "id": "pho-thom-college-park"
+            }, 
+            {
+                "count": 4, 
+                "rating": 3.5, 
+                "id": "looneys-pub-college-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.5, 
+                "id": "food-factory-college-park-2"
+            }, 
+            {
+                "count": 8, 
+                "rating": 3.5, 
+                "id": "hanami-japanese-restaurant-college-park"
+            }, 
+            {
+                "count": 6, 
+                "rating": 3.5, 
+                "id": "noodles-and-company-college-park-2"
+            }, 
+            {
+                "count": 7, 
+                "rating": 3.5, 
+                "id": "jasons-deli-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.5, 
+                "id": "sweetgreen-college-park"
+            }, 
+            {
+                "count": 4, 
+                "rating": 3.5, 
+                "id": "wasabi-bistro-college-park"
+            }, 
+            {
+                "count": 4, 
+                "rating": 3.0, 
+                "id": "ivy-noodles-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.0, 
+                "id": "clucksters-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 4.0, 
+                "id": "jimmy-johns-college-park"
+            }, 
+            {
+                "count": 6, 
+                "rating": 4.0, 
+                "id": "college-park-diner-college-park"
+            }, 
+            {
+                "count": 7, 
+                "rating": 3.0, 
+                "id": "cornerstone-grill-and-loft-college-park"
+            }, 
+            {
+                "count": 4, 
+                "rating": 3.0, 
+                "id": "sakura-seafood-and-supreme-buffet-college-park"
+            }, 
+            {
+                "count": 8, 
+                "rating": 3.5, 
+                "id": "the-jerk-pit-college-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.5, 
+                "id": "nuvegan-caf\u00e9-college-park"
+            }, 
+            {
+                "count": 13, 
+                "rating": 3.5, 
+                "id": "carolina-kitchen-bar-and-grill-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.5, 
+                "id": "pizza-autentica-college-park"
+            }, 
+            {
+                "count": 1, 
+                "rating": 4.0, 
+                "id": "pizza-mart-college-park"
+            }, 
+            {
+                "count": 1, 
+                "rating": 4.5, 
+                "id": "5-bread-2-fish-hyattsville"
+            }, 
+            {
+                "count": 9, 
+                "rating": 3.5, 
+                "id": "silver-diner-greenbelt"
+            }, 
+            {
+                "count": 9, 
+                "rating": 3.5, 
+                "id": "azteca-restaurant-cantina-college-park"
+            }, 
+            {
+                "count": 1, 
+                "rating": 4.0, 
+                "id": "la-chiquita-restaurant-hyattsville-3"
+            }, 
+            {
+                "count": 4, 
+                "rating": 3.5, 
+                "id": "kiyoko-express-college-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.5, 
+                "id": "qdoba-mexican-grill-hyattsville"
+            }, 
+            {
+                "count": 8, 
+                "rating": 4.5, 
+                "id": "unforgettable-flavors-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.5, 
+                "id": "pupuseria-el-comalito-riverdale-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.0, 
+                "id": "olive-garden-italian-restaurant-hyattsville-2"
+            }, 
+            {
+                "count": 4, 
+                "rating": 4.0, 
+                "id": "cafe-azul-hyattsville"
+            }, 
+            {
+                "count": 27, 
+                "rating": 4.0, 
+                "id": "franklins-restaurant-brewery-and-general-store-hyattsville"
+            }, 
+            {
+                "count": 5, 
+                "rating": 3.0, 
+                "id": "sir-walter-raleigh-inn-college-park"
+            }, 
+            {
+                "count": 1, 
+                "rating": 2.0, 
+                "id": "pizza-hut-college-park"
+            }, 
+            {
+                "count": 5, 
+                "rating": 3.5, 
+                "id": "pho-75-hyattsville"
+            }, 
+            {
+                "count": 8, 
+                "rating": 4.0, 
+                "id": "tiffin-takoma-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 4.5, 
+                "id": "pizza-oven-riverdale"
+            }, 
+            {
+                "count": 4, 
+                "rating": 3.5, 
+                "id": "pizza-roma-college-park"
+            }, 
+            {
+                "count": 10, 
+                "rating": 4.0, 
+                "id": "woodlands-indian-restaurant-langley-park-2"
+            }, 
+            {
+                "count": 1, 
+                "rating": 2.5, 
+                "id": "checkers-drive-in-berwyn-heights"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.0, 
+                "id": "basils-pizza-adelphi"
+            }, 
+            {
+                "count": 2, 
+                "rating": 4.0, 
+                "id": "sardis-pollo-a-la-brasa-takoma-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.0, 
+                "id": "hunan-china-carry-out-greenbelt"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.0, 
+                "id": "queensway-restaurants-and-catering-riverdale"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.0, 
+                "id": "sarku-japan-college-park"
+            }, 
+            {
+                "count": 1, 
+                "rating": 3.0, 
+                "id": "el-rey-taqueria-and-rostiseria-riverdale"
+            }, 
+            {
+                "count": 4, 
+                "rating": 3.0, 
+                "id": "golden-china-restaurant-hyattsville"
+            }, 
+            {
+                "count": 1, 
+                "rating": 3.5, 
+                "id": "no-1-china-takoma-park"
+            }, 
+            {
+                "count": 1, 
+                "rating": 4.0, 
+                "id": "senor-chicken-hyattsville"
+            }, 
+            {
+                "count": 1, 
+                "rating": 3.0, 
+                "id": "tabeer-hyattsville"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.5, 
+                "id": "cheesesteak-mikes-silver-spring"
+            }, 
+            {
+                "count": 3, 
+                "rating": 4.0, 
+                "id": "tacos-cinco-de-mayo-hyattsville"
+            }, 
+            {
+                "count": 3, 
+                "rating": 2.5, 
+                "id": "ikea-restaurant-and-cafe-college-park"
+            }, 
+            {
+                "count": 1, 
+                "rating": 3.5, 
+                "id": "quiznos-silver-spring-6"
+            }, 
+            {
+                "count": 2, 
+                "rating": 4.5, 
+                "id": "rebecca-ethiopian-cafe-and-grocery-hyattsville"
+            }, 
+            {
+                "count": 1, 
+                "rating": 2.5, 
+                "id": "taco-bell-landover-hills"
+            }
+        ]
+    }, 
+    {
+        "term": "three_brothers", 
+        "restaurants": [
+            {
+                "count": 3, 
+                "rating": 3.5, 
+                "id": "pizza-autentica-college-park"
+            }, 
+            {
+                "count": 11, 
+                "rating": 3.5, 
+                "id": "three-brothers-caterers-greenbelt"
+            }, 
+            {
+                "count": 4, 
+                "rating": 3.0, 
+                "id": "mamma-lucia-pizza-and-pasta-college-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.5, 
+                "id": "pizza-roma-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.0, 
+                "id": "three-brothers-pizza-hyattsville"
+            }
+        ]
+    }, 
+    {
+        "term": "pretty_good", 
+        "restaurants": [
+            {
+                "count": 15, 
+                "rating": 3.5, 
+                "id": "pho-d-lite-college-park"
+            }, 
+            {
+                "count": 8, 
+                "rating": 4.0, 
+                "id": "krazi-kebob-college-park"
+            }, 
+            {
+                "count": 9, 
+                "rating": 4.0, 
+                "id": "fishnet-college-park"
+            }, 
+            {
+                "count": 16, 
+                "rating": 3.5, 
+                "id": "ten-rens-tea-time-college-park-2"
+            }, 
+            {
+                "count": 19, 
+                "rating": 3.0, 
+                "id": "bobbys-burger-palace-college-park"
+            }, 
+            {
+                "count": 6, 
+                "rating": 3.5, 
+                "id": "pho-thom-college-park"
+            }, 
+            {
+                "count": 5, 
+                "rating": 3.5, 
+                "id": "dp-dough-college-park"
+            }, 
+            {
+                "count": 5, 
+                "rating": 3.5, 
+                "id": "food-factory-college-park-2"
+            }, 
+            {
+                "count": 10, 
+                "rating": 3.5, 
+                "id": "hanami-japanese-restaurant-college-park"
+            }, 
+            {
+                "count": 4, 
+                "rating": 3.0, 
+                "id": "kangnam-bbq-sports-bar-and-grill-college-park"
+            }, 
+            {
+                "count": 4, 
+                "rating": 3.0, 
+                "id": "platos-diner-college-park"
+            }, 
+            {
+                "count": 7, 
+                "rating": 3.5, 
+                "id": "jasons-deli-college-park"
+            }, 
+            {
+                "count": 10, 
+                "rating": 3.0, 
+                "id": "shanghai-tokyo-cafe-college-park"
+            }, 
+            {
+                "count": 4, 
+                "rating": 3.5, 
+                "id": "wasabi-bistro-college-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.5, 
+                "id": "slices-pizza-co-college-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.0, 
+                "id": "clucksters-college-park"
+            }, 
+            {
+                "count": 8, 
+                "rating": 4.0, 
+                "id": "college-park-diner-college-park"
+            }, 
+            {
+                "count": 7, 
+                "rating": 3.0, 
+                "id": "sakura-seafood-and-supreme-buffet-college-park"
+            }, 
+            {
+                "count": 8, 
+                "rating": 3.5, 
+                "id": "the-jerk-pit-college-park"
+            }, 
+            {
+                "count": 4, 
+                "rating": 3.0, 
+                "id": "pizza-kingdom-college-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.5, 
+                "id": "bonchon-hyattsville-7"
+            }, 
+            {
+                "count": 14, 
+                "rating": 4.0, 
+                "id": "siris-chef-secret-greenbelt"
+            }, 
+            {
+                "count": 6, 
+                "rating": 2.0, 
+                "id": "applebees-college-park"
+            }, 
+            {
+                "count": 6, 
+                "rating": 3.5, 
+                "id": "silver-diner-greenbelt"
+            }, 
+            {
+                "count": 10, 
+                "rating": 3.5, 
+                "id": "azteca-restaurant-cantina-college-park"
+            }, 
+            {
+                "count": 5, 
+                "rating": 3.5, 
+                "id": "kiyoko-express-college-park"
+            }, 
+            {
+                "count": 6, 
+                "rating": 3.0, 
+                "id": "old-dominion-brewhouse-hyattsville"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.0, 
+                "id": "outback-steakhouse-hyattsville-2"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.5, 
+                "id": "adeles-college-park"
+            }, 
+            {
+                "count": 4, 
+                "rating": 3.0, 
+                "id": "olive-garden-italian-restaurant-hyattsville-2"
+            }, 
+            {
+                "count": 9, 
+                "rating": 2.5, 
+                "id": "joes-crab-shack-greenbelt"
+            }, 
+            {
+                "count": 23, 
+                "rating": 4.0, 
+                "id": "franklins-restaurant-brewery-and-general-store-hyattsville"
+            }, 
+            {
+                "count": 6, 
+                "rating": 3.5, 
+                "id": "elevation-burger-hyattsville"
+            }, 
+            {
+                "count": 3, 
+                "rating": 2.0, 
+                "id": "tokyo-sushi-hyattsville"
+            }, 
+            {
+                "count": 1, 
+                "rating": 4.0, 
+                "id": "las-cazuelas-polla-a-la-brasa-y-taqueria-riverdale"
+            }, 
+            {
+                "count": 7, 
+                "rating": 3.0, 
+                "id": "mamma-lucia-pizza-and-pasta-college-park"
+            }, 
+            {
+                "count": 1, 
+                "rating": 3.5, 
+                "id": "a-and-d-buffalos-hyattsville"
+            }, 
+            {
+                "count": 1, 
+                "rating": 4.5, 
+                "id": "arbys-hyattsville"
+            }, 
+            {
+                "count": 9, 
+                "rating": 4.0, 
+                "id": "tiffin-takoma-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 4.0, 
+                "id": "jerk-hill-cafe-hyattsville"
+            }, 
+            {
+                "count": 10, 
+                "rating": 4.0, 
+                "id": "woodlands-indian-restaurant-langley-park-2"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.0, 
+                "id": "don-pollo-hyattsville"
+            }, 
+            {
+                "count": 7, 
+                "rating": 3.0, 
+                "id": "buffalo-wild-wings-college-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 4.0, 
+                "id": "caribbean-palace-takoma-park"
+            }, 
+            {
+                "count": 4, 
+                "rating": 2.5, 
+                "id": "moose-creek-steakhouse-college-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.0, 
+                "id": "sarku-japan-college-park"
+            }, 
+            {
+                "count": 1, 
+                "rating": 3.0, 
+                "id": "acapulco-spirit-restaurant-hyattsville"
+            }, 
+            {
+                "count": 1, 
+                "rating": 3.0, 
+                "id": "el-rey-taqueria-and-rostiseria-riverdale"
+            }, 
+            {
+                "count": 5, 
+                "rating": 4.0, 
+                "id": "viet-pho-and-grill-silver-spring"
+            }, 
+            {
+                "count": 11, 
+                "rating": 4.0, 
+                "id": "jewel-of-india-silver-spring"
+            }, 
+            {
+                "count": 1, 
+                "rating": 3.0, 
+                "id": "three-brothers-italian-restaurant-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 4.5, 
+                "id": "szechuan-delight-hyattsville"
+            }, 
+            {
+                "count": 1, 
+                "rating": 3.0, 
+                "id": "eastern-carryout-riverdale"
+            }, 
+            {
+                "count": 7, 
+                "rating": 3.0, 
+                "id": "urban-bar-b-que-silver-spring-4"
+            }, 
+            {
+                "count": 1, 
+                "rating": 3.0, 
+                "id": "heartys-2-hyattsville"
+            }, 
+            {
+                "count": 1, 
+                "rating": 4.0, 
+                "id": "leylas-cafe-hyattsville-3"
+            }, 
+            {
+                "count": 1, 
+                "rating": 2.0, 
+                "id": "panda-express-college-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 2.5, 
+                "id": "pizza-bolis-hyattsville"
+            }, 
+            {
+                "count": 1, 
+                "rating": 2.5, 
+                "id": "kfc-hyattsville-4"
+            }
+        ]
+    }, 
+    {
+        "term": "even_though", 
+        "restaurants": [
+            {
+                "count": 8, 
+                "rating": 3.5, 
+                "id": "ledo-restaurant-college-park"
+            }, 
+            {
+                "count": 6, 
+                "rating": 3.5, 
+                "id": "pho-thom-college-park"
+            }, 
+            {
+                "count": 4, 
+                "rating": 3.5, 
+                "id": "dp-dough-college-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.0, 
+                "id": "platos-diner-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.0, 
+                "id": "chipotle-mexican-grill-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 4.0, 
+                "id": "moby-dick-house-of-kabob-college-park"
+            }, 
+            {
+                "count": 5, 
+                "rating": 2.0, 
+                "id": "applebees-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.0, 
+                "id": "el-rey-taqueria-and-rostiseria-riverdale"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.0, 
+                "id": "tabeer-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.5, 
+                "id": "pizza-bolis-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.0, 
+                "id": "eddys-carry-out-bladensburg"
+            }
+        ]
+    }, 
+    {
+        "term": "long_time", 
+        "restaurants": [
+            {
+                "count": 2, 
+                "rating": 4.0, 
+                "id": "dumms-pizza-and-subs-riverdale"
+            }, 
+            {
+                "count": 6, 
+                "rating": 3.5, 
+                "id": "silver-diner-greenbelt"
+            }, 
+            {
+                "count": 2, 
+                "rating": 4.0, 
+                "id": "chipotle-mexican-grill-greenbelt"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.0, 
+                "id": "olive-garden-italian-restaurant-hyattsville-2"
+            }, 
+            {
+                "count": 5, 
+                "rating": 2.5, 
+                "id": "joes-crab-shack-greenbelt"
+            }, 
+            {
+                "count": 3, 
+                "rating": 4.0, 
+                "id": "new-century-carry-out-and-resturant-hyattsville"
+            }
+        ]
+    }, 
+    {
+        "term": "fried_rice", 
+        "restaurants": [
+            {
+                "count": 8, 
+                "rating": 4.0, 
+                "id": "aroy-thai-restaurant-college-park"
+            }, 
+            {
+                "count": 8, 
+                "rating": 3.5, 
+                "id": "pho-thom-college-park"
+            }, 
+            {
+                "count": 6, 
+                "rating": 3.5, 
+                "id": "hanami-japanese-restaurant-college-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.0, 
+                "id": "shanghai-tokyo-cafe-college-park"
+            }, 
+            {
+                "count": 6, 
+                "rating": 3.0, 
+                "id": "shanghai-cafe-chinese-restaurant-college-park"
+            }, 
+            {
+                "count": 4, 
+                "rating": 3.0, 
+                "id": "ivy-noodles-college-park"
+            }, 
+            {
+                "count": 7, 
+                "rating": 3.5, 
+                "id": "bonchon-hyattsville-7"
+            }, 
+            {
+                "count": 6, 
+                "rating": 3.5, 
+                "id": "kiyoko-express-college-park"
+            }, 
+            {
+                "count": 5, 
+                "rating": 2.5, 
+                "id": "china-buffet-college-park"
+            }, 
+            {
+                "count": 4, 
+                "rating": 3.5, 
+                "id": "panda-express-college-park-2"
+            }, 
+            {
+                "count": 8, 
+                "rating": 3.5, 
+                "id": "eddies-cafe-college-park"
+            }, 
+            {
+                "count": 6, 
+                "rating": 2.5, 
+                "id": "tara-thai-hyattsville"
+            }, 
+            {
+                "count": 5, 
+                "rating": 4.0, 
+                "id": "chicken-rico-hyattsville"
+            }, 
+            {
+                "count": 5, 
+                "rating": 4.0, 
+                "id": "new-century-carry-out-and-resturant-hyattsville"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.0, 
+                "id": "yums-express-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.5, 
+                "id": "teriyaki-express-hyattsville"
+            }, 
+            {
+                "count": 3, 
+                "rating": 2.5, 
+                "id": "golden-house-5-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 4.0, 
+                "id": "sardis-pollo-a-la-brasa-takoma-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.0, 
+                "id": "shen-yang-chinese-restaurant-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 4.5, 
+                "id": "szechuan-delight-hyattsville"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.0, 
+                "id": "sammys-carry-out-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.0, 
+                "id": "eastern-carryout-riverdale"
+            }, 
+            {
+                "count": 1, 
+                "rating": 1.0, 
+                "id": "asian-restaurant-riverdale"
+            }, 
+            {
+                "count": 2, 
+                "rating": 1.0, 
+                "id": "hunan-hut-hyattsville"
+            }
+        ]
+    }, 
+    {
+        "term": "15_minutes", 
+        "restaurants": [
+            {
+                "count": 9, 
+                "rating": 3.5, 
+                "id": "ledo-restaurant-college-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.0, 
+                "id": "shanghai-tokyo-cafe-college-park"
+            }, 
+            {
+                "count": 4, 
+                "rating": 3.5, 
+                "id": "bonchon-hyattsville-7"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.0, 
+                "id": "dennys-college-park"
+            }, 
+            {
+                "count": 5, 
+                "rating": 3.0, 
+                "id": "olive-garden-italian-restaurant-hyattsville-2"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.0, 
+                "id": "ihop-college-park"
+            }, 
+            {
+                "count": 4, 
+                "rating": 2.5, 
+                "id": "tgi-fridays-greenbelt-3"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.0, 
+                "id": "new-york-deli-college-park-3"
+            }
+        ]
+    }, 
+    {
+        "term": "bubble_tea", 
+        "restaurants": [
+            {
+                "count": 195, 
+                "rating": 3.5, 
+                "id": "ten-rens-tea-time-college-park-2"
+            }, 
+            {
+                "count": 6, 
+                "rating": 3.0, 
+                "id": "shanghai-tokyo-cafe-college-park"
+            }, 
+            {
+                "count": 32, 
+                "rating": 3.5, 
+                "id": "wasabi-bistro-college-park"
+            }, 
+            {
+                "count": 7, 
+                "rating": 3.0, 
+                "id": "ivy-noodles-college-park"
+            }, 
+            {
+                "count": 14, 
+                "rating": 4.0, 
+                "id": "viet-pho-and-grill-silver-spring"
+            }
+        ]
+    }, 
+    {
+        "term": "2_sides", 
+        "restaurants": [
+            {
+                "count": 2, 
+                "rating": 4.5, 
+                "id": "5-bread-2-fish-hyattsville"
+            }, 
+            {
+                "count": 1, 
+                "rating": 4.0, 
+                "id": "pollo-oro-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 4.0, 
+                "id": "chicken-rico-hyattsville"
+            }, 
+            {
+                "count": 1, 
+                "rating": 3.0, 
+                "id": "don-pollo-hyattsville"
+            }, 
+            {
+                "count": 1, 
+                "rating": 4.0, 
+                "id": "boston-market-greenbelt"
+            }, 
+            {
+                "count": 1, 
+                "rating": 2.5, 
+                "id": "popeyes-famous-fried-chicken-hyattsville-2"
+            }
+        ]
+    }, 
+    {
+        "term": "going_back", 
+        "restaurants": [
+            {
+                "count": 3, 
+                "rating": 4.0, 
+                "id": "jimmy-johns-college-park"
+            }, 
+            {
+                "count": 5, 
+                "rating": 3.5, 
+                "id": "azteca-restaurant-cantina-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.5, 
+                "id": "pollo-fiesta-riverdale"
+            }, 
+            {
+                "count": 3, 
+                "rating": 4.0, 
+                "id": "busboys-and-poets-hyattsville?start=280"
+            }, 
+            {
+                "count": 6, 
+                "rating": 2.5, 
+                "id": "joes-crab-shack-greenbelt"
+            }, 
+            {
+                "count": 4, 
+                "rating": 3.5, 
+                "id": "elevation-burger-hyattsville"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.5, 
+                "id": "hard-times-cafe-college-park"
+            }, 
+            {
+                "count": 4, 
+                "rating": 3.0, 
+                "id": "sir-walter-raleigh-inn-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.0, 
+                "id": "chipotle-mexican-grill-hyattsville"
+            }, 
+            {
+                "count": 1, 
+                "rating": 4.5, 
+                "id": "jodeem-african-cuisine-greenbelt"
+            }, 
+            {
+                "count": 5, 
+                "rating": 4.0, 
+                "id": "viet-pho-and-grill-silver-spring"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.0, 
+                "id": "tabeer-hyattsville"
+            }, 
+            {
+                "count": 1, 
+                "rating": 1.0, 
+                "id": "ejs-landing-restaurant-college-park"
+            }
+        ]
+    }, 
+    {
+        "term": "corn_tortillas", 
+        "restaurants": [
+            {
+                "count": 3, 
+                "rating": 3.0, 
+                "id": "el-amate-hyattsville"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.5, 
+                "id": "alamo-mexican-restaurant-riverdale"
+            }, 
+            {
+                "count": 6, 
+                "rating": 4.0, 
+                "id": "taqueria-la-placita-hyattsville"
+            }, 
+            {
+                "count": 6, 
+                "rating": 4.0, 
+                "id": "la-fondita-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 4.0, 
+                "id": "tacos-cinco-de-mayo-hyattsville"
+            }
+        ]
+    }, 
+    {
+        "term": "great_place", 
+        "restaurants": [
+            {
+                "count": 6, 
+                "rating": 4.0, 
+                "id": "the-board-and-brew-college-park-4"
+            }, 
+            {
+                "count": 2, 
+                "rating": 4.0, 
+                "id": "potbelly-sandwich-shop-college-park-2"
+            }, 
+            {
+                "count": 7, 
+                "rating": 3.5, 
+                "id": "looneys-pub-college-park"
+            }, 
+            {
+                "count": 1, 
+                "rating": 4.5, 
+                "id": "king-kong-restaurant-hyattsville"
+            }, 
+            {
+                "count": 4, 
+                "rating": 3.0, 
+                "id": "old-dominion-brewhouse-hyattsville"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.5, 
+                "id": "five-guys-burgers-and-fries-hyattsville"
+            }, 
+            {
+                "count": 27, 
+                "rating": 4.0, 
+                "id": "franklins-restaurant-brewery-and-general-store-hyattsville"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.5, 
+                "id": "hard-times-cafe-college-park"
+            }, 
+            {
+                "count": 4, 
+                "rating": 4.0, 
+                "id": "la-fondita-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 4.0, 
+                "id": "mid-atlantic-seafood-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.5, 
+                "id": "la-sirenita-restaurant-hyattsville"
+            }, 
+            {
+                "count": 1, 
+                "rating": 3.0, 
+                "id": "subway-college-park"
+            }
+        ]
+    }, 
+    {
+        "term": "last_time", 
+        "restaurants": [
+            {
+                "count": 4, 
+                "rating": 2.0, 
+                "id": "dennys-college-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.0, 
+                "id": "ihop-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.0, 
+                "id": "bono-pizza-riverdale"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.5, 
+                "id": "chipotle-mexican-grill-college-park-2"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.5, 
+                "id": "el-taco-azteca-hyattsville"
+            }
+        ]
+    }, 
+    {
+        "term": "next_time", 
+        "restaurants": [
+            {
+                "count": 4, 
+                "rating": 4.0, 
+                "id": "the-board-and-brew-college-park-4"
+            }, 
+            {
+                "count": 9, 
+                "rating": 4.0, 
+                "id": "ovo-simply-veggie-college-park"
+            }, 
+            {
+                "count": 8, 
+                "rating": 4.0, 
+                "id": "krazi-kebob-college-park"
+            }, 
+            {
+                "count": 11, 
+                "rating": 4.0, 
+                "id": "fishnet-college-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 4.0, 
+                "id": "pupuseria-la-familiar-college-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.0, 
+                "id": "shanghai-tokyo-cafe-college-park"
+            }, 
+            {
+                "count": 4, 
+                "rating": 3.0, 
+                "id": "ivy-noodles-college-park"
+            }, 
+            {
+                "count": 5, 
+                "rating": 3.5, 
+                "id": "taqueria-tres-reyes-riverdale"
+            }, 
+            {
+                "count": 4, 
+                "rating": 2.5, 
+                "id": "tara-thai-hyattsville"
+            }, 
+            {
+                "count": 1, 
+                "rating": 3.5, 
+                "id": "a-and-d-buffalos-hyattsville"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.5, 
+                "id": "alamo-mexican-restaurant-riverdale"
+            }, 
+            {
+                "count": 6, 
+                "rating": 4.0, 
+                "id": "taqueria-la-placita-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.5, 
+                "id": "pho-301-restaurant-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.0, 
+                "id": "dominos-pizza-silver-spring-6"
+            }
+        ]
+    }, 
+    {
+        "term": "authentic_mexican", 
+        "restaurants": [
+            {
+                "count": 1, 
+                "rating": 4.0, 
+                "id": "la-chiquita-restaurant-hyattsville-3"
+            }, 
+            {
+                "count": 5, 
+                "rating": 3.5, 
+                "id": "taqueria-tres-reyes-riverdale"
+            }, 
+            {
+                "count": 4, 
+                "rating": 3.5, 
+                "id": "alamo-mexican-restaurant-riverdale"
+            }, 
+            {
+                "count": 12, 
+                "rating": 4.0, 
+                "id": "taqueria-la-placita-hyattsville"
+            }, 
+            {
+                "count": 5, 
+                "rating": 4.0, 
+                "id": "la-fondita-hyattsville"
+            }, 
+            {
+                "count": 7, 
+                "rating": 3.5, 
+                "id": "la-sirenita-restaurant-hyattsville"
+            }, 
+            {
+                "count": 5, 
+                "rating": 4.0, 
+                "id": "tacos-cinco-de-mayo-hyattsville"
+            }
+        ]
+    }, 
+    {
+        "term": "best_pizza", 
+        "restaurants": [
+            {
+                "count": 7, 
+                "rating": 3.5, 
+                "id": "ledo-restaurant-college-park"
+            }, 
+            {
+                "count": 14, 
+                "rating": 3.5, 
+                "id": "slices-pizza-co-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.5, 
+                "id": "pizza-autentica-college-park"
+            }, 
+            {
+                "count": 6, 
+                "rating": 3.0, 
+                "id": "mamma-lucia-pizza-and-pasta-college-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.5, 
+                "id": "pizza-roma-college-park"
+            }
+        ]
+    }, 
+    {
+        "term": "coming_back", 
+        "restaurants": [
+            {
+                "count": 2, 
+                "rating": 3.0, 
+                "id": "clucksters-college-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.5, 
+                "id": "bonchon-hyattsville-7"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.0, 
+                "id": "sir-walter-raleigh-inn-college-park"
+            }, 
+            {
+                "count": 1, 
+                "rating": 1.5, 
+                "id": "wendys-riverdale"
+            }, 
+            {
+                "count": 1, 
+                "rating": 2.5, 
+                "id": "los-antojitos-hyattsville"
+            }, 
+            {
+                "count": 1, 
+                "rating": 2.5, 
+                "id": "la-chiquita-restaurant-hyattsville-2"
+            }, 
+            {
+                "count": 1, 
+                "rating": 1.5, 
+                "id": "wendys-greenbelt"
+            }, 
+            {
+                "count": 1, 
+                "rating": 2.5, 
+                "id": "el-puente-de-oro-hyattsville"
+            }, 
+            {
+                "count": 1, 
+                "rating": 3.0, 
+                "id": "wendys-hyattsville-2"
+            }, 
+            {
+                "count": 1, 
+                "rating": 1.0, 
+                "id": "dominos-pizza-hyattsville-6"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.5, 
+                "id": "pizza-hut-silver-spring-5"
+            }
+        ]
+    }, 
+    {
+        "term": "crab_dip", 
+        "restaurants": [
+            {
+                "count": 5, 
+                "rating": 3.5, 
+                "id": "looneys-pub-college-park"
+            }, 
+            {
+                "count": 6, 
+                "rating": 2.5, 
+                "id": "adeles-college-park"
+            }, 
+            {
+                "count": 5, 
+                "rating": 2.5, 
+                "id": "joes-crab-shack-greenbelt"
+            }, 
+            {
+                "count": 23, 
+                "rating": 4.0, 
+                "id": "franklins-restaurant-brewery-and-general-store-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.5, 
+                "id": "moose-creek-steakhouse-college-park"
+            }
+        ]
+    }, 
+    {
+        "term": "wait_staff", 
+        "restaurants": [
+            {
+                "count": 4, 
+                "rating": 3.5, 
+                "id": "looneys-pub-college-park"
+            }, 
+            {
+                "count": 12, 
+                "rating": 3.5, 
+                "id": "carolina-kitchen-bar-and-grill-hyattsville"
+            }, 
+            {
+                "count": 4, 
+                "rating": 2.0, 
+                "id": "dennys-college-park"
+            }, 
+            {
+                "count": 7, 
+                "rating": 3.5, 
+                "id": "silver-diner-greenbelt"
+            }, 
+            {
+                "count": 6, 
+                "rating": 3.5, 
+                "id": "azteca-restaurant-cantina-college-park"
+            }, 
+            {
+                "count": 1, 
+                "rating": 4.0, 
+                "id": "la-chiquita-restaurant-hyattsville-3"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.0, 
+                "id": "olive-garden-italian-restaurant-hyattsville-2"
+            }, 
+            {
+                "count": 4, 
+                "rating": 3.5, 
+                "id": "alamo-mexican-restaurant-riverdale"
+            }
+        ]
+    }, 
+    {
+        "term": "spring_rolls", 
+        "restaurants": [
+            {
+                "count": 14, 
+                "rating": 3.5, 
+                "id": "pho-d-lite-college-park"
+            }, 
+            {
+                "count": 15, 
+                "rating": 4.0, 
+                "id": "aroy-thai-restaurant-college-park"
+            }, 
+            {
+                "count": 9, 
+                "rating": 3.5, 
+                "id": "pho-thom-college-park"
+            }, 
+            {
+                "count": 15, 
+                "rating": 4.0, 
+                "id": "siris-chef-secret-greenbelt"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.5, 
+                "id": "eddies-cafe-college-park"
+            }, 
+            {
+                "count": 6, 
+                "rating": 2.5, 
+                "id": "tara-thai-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 4.0, 
+                "id": "new-century-carry-out-and-resturant-hyattsville"
+            }, 
+            {
+                "count": 17, 
+                "rating": 4.0, 
+                "id": "viet-pho-and-grill-silver-spring"
+            }
+        ]
+    }, 
+    {
+        "term": "go_back", 
+        "restaurants": [
+            {
+                "count": 13, 
+                "rating": 4.0, 
+                "id": "ovo-simply-veggie-college-park"
+            }, 
+            {
+                "count": 9, 
+                "rating": 3.5, 
+                "id": "pho-d-lite-college-park"
+            }, 
+            {
+                "count": 11, 
+                "rating": 4.0, 
+                "id": "krazi-kebob-college-park"
+            }, 
+            {
+                "count": 7, 
+                "rating": 3.5, 
+                "id": "ledo-restaurant-college-park"
+            }, 
+            {
+                "count": 14, 
+                "rating": 3.0, 
+                "id": "bobbys-burger-palace-college-park"
+            }, 
+            {
+                "count": 4, 
+                "rating": 3.5, 
+                "id": "food-factory-college-park-2"
+            }, 
+            {
+                "count": 4, 
+                "rating": 3.0, 
+                "id": "kangnam-bbq-sports-bar-and-grill-college-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.0, 
+                "id": "platos-diner-college-park"
+            }, 
+            {
+                "count": 1, 
+                "rating": 4.5, 
+                "id": "el-catrachito-silver-spring"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.5, 
+                "id": "the-common-hyattsville"
+            }, 
+            {
+                "count": 5, 
+                "rating": 3.0, 
+                "id": "sakura-seafood-and-supreme-buffet-college-park"
+            }, 
+            {
+                "count": 9, 
+                "rating": 3.5, 
+                "id": "the-jerk-pit-college-park"
+            }, 
+            {
+                "count": 19, 
+                "rating": 3.5, 
+                "id": "carolina-kitchen-bar-and-grill-hyattsville"
+            }, 
+            {
+                "count": 11, 
+                "rating": 4.5, 
+                "id": "shagga-coffee-and-restaurant-hyattsville"
+            }, 
+            {
+                "count": 6, 
+                "rating": 2.0, 
+                "id": "r-j-bentleys-restaurant-college-park"
+            }, 
+            {
+                "count": 11, 
+                "rating": 3.5, 
+                "id": "silver-diner-greenbelt"
+            }, 
+            {
+                "count": 9, 
+                "rating": 3.5, 
+                "id": "azteca-restaurant-cantina-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 4.0, 
+                "id": "el-taco-rico-greenbelt"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.5, 
+                "id": "pupuseria-el-comalito-riverdale-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 4.0, 
+                "id": "busboys-and-poets-hyattsville?start=280"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.5, 
+                "id": "five-guys-burgers-and-fries-hyattsville"
+            }, 
+            {
+                "count": 1, 
+                "rating": 3.0, 
+                "id": "mulligans-grill-and-pub-college-park"
+            }, 
+            {
+                "count": 8, 
+                "rating": 2.5, 
+                "id": "joes-crab-shack-greenbelt"
+            }, 
+            {
+                "count": 16, 
+                "rating": 4.0, 
+                "id": "franklins-restaurant-brewery-and-general-store-hyattsville"
+            }, 
+            {
+                "count": 4, 
+                "rating": 3.5, 
+                "id": "hard-times-cafe-college-park"
+            }, 
+            {
+                "count": 18, 
+                "rating": 4.0, 
+                "id": "spice-6-modern-indian-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.5, 
+                "id": "three-brothers-caterers-greenbelt"
+            }, 
+            {
+                "count": 5, 
+                "rating": 3.5, 
+                "id": "taqueria-tres-reyes-riverdale"
+            }, 
+            {
+                "count": 1, 
+                "rating": 4.0, 
+                "id": "las-cazuelas-polla-a-la-brasa-y-taqueria-riverdale"
+            }, 
+            {
+                "count": 1, 
+                "rating": 4.0, 
+                "id": "smoothie-king-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 4.5, 
+                "id": "chez-dior-hyattsville"
+            }, 
+            {
+                "count": 1, 
+                "rating": 4.0, 
+                "id": "sabor-latino-restaurant-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.5, 
+                "id": "eddies-cafe-college-park"
+            }, 
+            {
+                "count": 5, 
+                "rating": 2.5, 
+                "id": "tara-thai-hyattsville"
+            }, 
+            {
+                "count": 7, 
+                "rating": 4.0, 
+                "id": "taqueria-la-placita-hyattsville"
+            }, 
+            {
+                "count": 4, 
+                "rating": 4.0, 
+                "id": "la-fondita-hyattsville"
+            }, 
+            {
+                "count": 1, 
+                "rating": 1.5, 
+                "id": "wendys-riverdale"
+            }, 
+            {
+                "count": 1, 
+                "rating": 2.5, 
+                "id": "checkers-drive-in-berwyn-heights"
+            }, 
+            {
+                "count": 1, 
+                "rating": 1.5, 
+                "id": "mcdonalds-riverdale-2"
+            }, 
+            {
+                "count": 1, 
+                "rating": 2.5, 
+                "id": "los-antojitos-hyattsville"
+            }, 
+            {
+                "count": 3, 
+                "rating": 4.0, 
+                "id": "caribbean-palace-takoma-park"
+            }, 
+            {
+                "count": 1, 
+                "rating": 4.5, 
+                "id": "chicken-loco-peruvian-chicken-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.0, 
+                "id": "shen-yang-chinese-restaurant-college-park"
+            }, 
+            {
+                "count": 1, 
+                "rating": 4.0, 
+                "id": "caribbean-delight-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.5, 
+                "id": "moose-creek-steakhouse-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.0, 
+                "id": "sarku-japan-college-park"
+            }, 
+            {
+                "count": 1, 
+                "rating": 4.5, 
+                "id": "taco-rico-hyattsville"
+            }, 
+            {
+                "count": 8, 
+                "rating": 4.0, 
+                "id": "viet-pho-and-grill-silver-spring"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.5, 
+                "id": "chipotle-mexican-grill-college-park-2"
+            }, 
+            {
+                "count": 1, 
+                "rating": 3.0, 
+                "id": "tonys-villa-pizza-takoma-park"
+            }, 
+            {
+                "count": 1, 
+                "rating": 2.0, 
+                "id": "three-brothers-pizza-hyattsville"
+            }, 
+            {
+                "count": 1, 
+                "rating": 3.0, 
+                "id": "tabeer-hyattsville"
+            }, 
+            {
+                "count": 1, 
+                "rating": 1.5, 
+                "id": "mcdonalds-riverdale-park"
+            }, 
+            {
+                "count": 1, 
+                "rating": 2.5, 
+                "id": "el-puente-de-oro-hyattsville"
+            }, 
+            {
+                "count": 3, 
+                "rating": 2.0, 
+                "id": "philly-dawgz-silver-spring"
+            }
+        ]
+    }, 
+    {
+        "term": "jerk_chicken", 
+        "restaurants": [
+            {
+                "count": 47, 
+                "rating": 3.5, 
+                "id": "the-jerk-pit-college-park"
+            }, 
+            {
+                "count": 50, 
+                "rating": 4.5, 
+                "id": "unforgettable-flavors-college-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 4.0, 
+                "id": "kingston-arbor-hyattsville"
+            }, 
+            {
+                "count": 4, 
+                "rating": 3.0, 
+                "id": "golden-krust-hyattsville"
+            }, 
+            {
+                "count": 4, 
+                "rating": 4.0, 
+                "id": "jerk-hill-cafe-hyattsville"
+            }, 
+            {
+                "count": 1, 
+                "rating": 4.0, 
+                "id": "caribbean-delight-hyattsville"
+            }
+        ]
+    }, 
+    {
+        "term": "10_minutes", 
+        "restaurants": [
+            {
+                "count": 2, 
+                "rating": 3.5, 
+                "id": "nuvegan-caf\u00e9-college-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 2.0, 
+                "id": "applebees-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.0, 
+                "id": "dennys-college-park"
+            }, 
+            {
+                "count": 6, 
+                "rating": 3.5, 
+                "id": "silver-diner-greenbelt"
+            }, 
+            {
+                "count": 2, 
+                "rating": 4.0, 
+                "id": "el-taco-rico-greenbelt"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.0, 
+                "id": "outback-steakhouse-hyattsville-2"
+            }, 
+            {
+                "count": 5, 
+                "rating": 2.5, 
+                "id": "joes-crab-shack-greenbelt"
+            }, 
+            {
+                "count": 6, 
+                "rating": 2.5, 
+                "id": "tgi-fridays-greenbelt-3"
+            }, 
+            {
+                "count": 2, 
+                "rating": 4.0, 
+                "id": "mid-atlantic-seafood-hyattsville"
+            }
+        ]
+    }, 
+    {
+        "term": "papa_johns", 
+        "restaurants": [
+            {
+                "count": 1, 
+                "rating": 4.0, 
+                "id": "pizza-mart-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.0, 
+                "id": "pizza-bolis-college-park"
+            }, 
+            {
+                "count": 9, 
+                "rating": 2.0, 
+                "id": "papa-johns-pizza-college-park"
+            }, 
+            {
+                "count": 1, 
+                "rating": 3.5, 
+                "id": "dominos-pizza-hyattsville-4"
+            }, 
+            {
+                "count": 7, 
+                "rating": 3.0, 
+                "id": "papa-johns-pizza-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 1.5, 
+                "id": "pizza-hut-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.5, 
+                "id": "pizza-bolis-hyattsville"
+            }
+        ]
+    }, 
+    {
+        "term": "tasted_like", 
+        "restaurants": [
+            {
+                "count": 2, 
+                "rating": 3.0, 
+                "id": "platos-diner-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.5, 
+                "id": "the-common-hyattsville"
+            }, 
+            {
+                "count": 6, 
+                "rating": 3.5, 
+                "id": "silver-diner-greenbelt"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.5, 
+                "id": "qdoba-mexican-grill-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 1.5, 
+                "id": "dominos-pizza-college-park-2"
+            }, 
+            {
+                "count": 4, 
+                "rating": 2.0, 
+                "id": "tokyo-sushi-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.5, 
+                "id": "pizza-roma-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.5, 
+                "id": "samlina-restaurant-riverdale"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.5, 
+                "id": "la-sirenita-restaurant-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.5, 
+                "id": "cheesesteak-mikes-silver-spring"
+            }
+        ]
+    }, 
+    {
+        "term": "peruvian_chicken", 
+        "restaurants": [
+            {
+                "count": 2, 
+                "rating": 3.5, 
+                "id": "pollo-fiesta-riverdale"
+            }, 
+            {
+                "count": 14, 
+                "rating": 4.0, 
+                "id": "chicken-rico-hyattsville"
+            }, 
+            {
+                "count": 5, 
+                "rating": 4.0, 
+                "id": "sardis-pollo-a-la-brasa-takoma-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 4.5, 
+                "id": "chicken-loco-peruvian-chicken-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 4.0, 
+                "id": "senor-chicken-hyattsville"
+            }
+        ]
+    }, 
+    {
+        "term": "langley_park", 
+        "restaurants": [
+            {
+                "count": 2, 
+                "rating": 4.0, 
+                "id": "chicken-rico-hyattsville"
+            }, 
+            {
+                "count": 13, 
+                "rating": 4.0, 
+                "id": "tiffin-takoma-park"
+            }, 
+            {
+                "count": 4, 
+                "rating": 4.0, 
+                "id": "caribbean-palace-takoma-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 4.5, 
+                "id": "el-marinero-takoma-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 4.5, 
+                "id": "szechuan-delight-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.0, 
+                "id": "tonys-villa-pizza-takoma-park"
+            }, 
+            {
+                "count": 5, 
+                "rating": 3.5, 
+                "id": "pollo-campero-takoma-park"
+            }
+        ]
+    }, 
+    {
+        "term": "food_poisoning", 
+        "restaurants": [
+            {
+                "count": 5, 
+                "rating": 3.0, 
+                "id": "shanghai-cafe-chinese-restaurant-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.0, 
+                "id": "chipotle-mexican-grill-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.0, 
+                "id": "tokyo-sushi-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.5, 
+                "id": "chipotle-mexican-grill-college-park-2"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.5, 
+                "id": "pho-301-restaurant-hyattsville"
+            }
+        ]
+    }, 
+    {
+        "term": "chinese_food", 
+        "restaurants": [
+            {
+                "count": 12, 
+                "rating": 3.0, 
+                "id": "shanghai-tokyo-cafe-college-park"
+            }, 
+            {
+                "count": 20, 
+                "rating": 3.0, 
+                "id": "shanghai-cafe-chinese-restaurant-college-park"
+            }, 
+            {
+                "count": 6, 
+                "rating": 3.0, 
+                "id": "ivy-noodles-college-park"
+            }, 
+            {
+                "count": 5, 
+                "rating": 3.0, 
+                "id": "sakura-seafood-and-supreme-buffet-college-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.5, 
+                "id": "kiyoko-express-college-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 4.5, 
+                "id": "king-kong-restaurant-hyattsville"
+            }, 
+            {
+                "count": 6, 
+                "rating": 2.5, 
+                "id": "china-buffet-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.0, 
+                "id": "tokyo-sushi-hyattsville"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.5, 
+                "id": "panda-express-college-park-2"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.5, 
+                "id": "eddies-cafe-college-park"
+            }, 
+            {
+                "count": 6, 
+                "rating": 4.0, 
+                "id": "new-century-carry-out-and-resturant-hyattsville"
+            }, 
+            {
+                "count": 4, 
+                "rating": 2.5, 
+                "id": "golden-house-5-hyattsville"
+            }, 
+            {
+                "count": 11, 
+                "rating": 3.0, 
+                "id": "shen-yang-chinese-restaurant-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.5, 
+                "id": "china-golden-hyattsville"
+            }, 
+            {
+                "count": 1, 
+                "rating": 2.5, 
+                "id": "asian-carry-out-hyattsville"
+            }, 
+            {
+                "count": 6, 
+                "rating": 3.0, 
+                "id": "golden-china-restaurant-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.5, 
+                "id": "no-1-china-takoma-park"
+            }, 
+            {
+                "count": 1, 
+                "rating": 2.5, 
+                "id": "house-of-china-riverdale"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.0, 
+                "id": "panda-china-hyattsville"
+            }, 
+            {
+                "count": 1, 
+                "rating": 3.0, 
+                "id": "heartys-2-hyattsville"
+            }, 
+            {
+                "count": 4, 
+                "rating": 2.5, 
+                "id": "eastern-carryout-silver-spring-2"
+            }, 
+            {
+                "count": 1, 
+                "rating": 1.0, 
+                "id": "hunan-hut-hyattsville"
+            }, 
+            {
+                "count": 3, 
+                "rating": 1.5, 
+                "id": "china-fongs-carryout-hyattsville"
+            }
+        ]
+    }, 
+    {
+        "term": "food_court", 
+        "restaurants": [
+            {
+                "count": 3, 
+                "rating": 4.5, 
+                "id": "maryland-food-collective-college-park-2"
+            }, 
+            {
+                "count": 3, 
+                "rating": 4.0, 
+                "id": "moby-dick-house-of-kabob-college-park"
+            }, 
+            {
+                "count": 4, 
+                "rating": 4.5, 
+                "id": "5-bread-2-fish-hyattsville"
+            }, 
+            {
+                "count": 4, 
+                "rating": 4.0, 
+                "id": "saladworks-college-park"
+            }, 
+            {
+                "count": 6, 
+                "rating": 3.5, 
+                "id": "panda-express-college-park-2"
+            }, 
+            {
+                "count": 1, 
+                "rating": 4.0, 
+                "id": "steak-escape-hyattsville-2"
+            }, 
+            {
+                "count": 5, 
+                "rating": 3.0, 
+                "id": "sarku-japan-college-park"
+            }, 
+            {
+                "count": 1, 
+                "rating": 1.0, 
+                "id": "sbarro-hyattsville"
+            }, 
+            {
+                "count": 1, 
+                "rating": 2.5, 
+                "id": "sarku-japan-hyattsville"
+            }
+        ]
+    }, 
+    {
+        "term": "usually_get", 
+        "restaurants": [
+            {
+                "count": 2, 
+                "rating": 3.0, 
+                "id": "clucksters-college-park"
+            }, 
+            {
+                "count": 1, 
+                "rating": 4.5, 
+                "id": "5-bread-2-fish-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.5, 
+                "id": "pupuseria-el-comalito-riverdale-park"
+            }, 
+            {
+                "count": 1, 
+                "rating": 1.5, 
+                "id": "popeyes-greenbelt"
+            }, 
+            {
+                "count": 1, 
+                "rating": 3.0, 
+                "id": "chipotle-mexican-grill-hyattsville"
+            }, 
+            {
+                "count": 1, 
+                "rating": 4.0, 
+                "id": "boston-market-greenbelt"
+            }, 
+            {
+                "count": 1, 
+                "rating": 4.0, 
+                "id": "joes-restaurant-mount-rainier"
+            }
+        ]
+    }, 
+    {
+        "term": "4_stars", 
+        "restaurants": [
+            {
+                "count": 4, 
+                "rating": 4.0, 
+                "id": "pupuseria-la-familiar-college-park"
+            }, 
+            {
+                "count": 4, 
+                "rating": 4.0, 
+                "id": "college-park-diner-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.5, 
+                "id": "adeles-college-park"
+            }, 
+            {
+                "count": 5, 
+                "rating": 3.0, 
+                "id": "mamma-lucia-pizza-and-pasta-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 4.0, 
+                "id": "chips-and-deli-riverdale-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 2.5, 
+                "id": "tgi-fridays-greenbelt-3"
+            }
+        ]
+    }, 
+    {
+        "term": "mexican_food", 
+        "restaurants": [
+            {
+                "count": 3, 
+                "rating": 3.0, 
+                "id": "chipotle-mexican-grill-college-park"
+            }, 
+            {
+                "count": 29, 
+                "rating": 3.5, 
+                "id": "azteca-restaurant-cantina-college-park"
+            }, 
+            {
+                "count": 3, 
+                "rating": 3.5, 
+                "id": "qdoba-mexican-grill-hyattsville"
+            }, 
+            {
+                "count": 9, 
+                "rating": 3.5, 
+                "id": "taqueria-tres-reyes-riverdale"
+            }, 
+            {
+                "count": 3, 
+                "rating": 4.0, 
+                "id": "taqueria-el-mexicano-hyattsville"
+            }, 
+            {
+                "count": 12, 
+                "rating": 3.5, 
+                "id": "alamo-mexican-restaurant-riverdale"
+            }, 
+            {
+                "count": 8, 
+                "rating": 4.0, 
+                "id": "taqueria-la-placita-hyattsville"
+            }, 
+            {
+                "count": 11, 
+                "rating": 4.0, 
+                "id": "la-fondita-hyattsville"
+            }, 
+            {
+                "count": 13, 
+                "rating": 3.5, 
+                "id": "la-sirenita-restaurant-hyattsville"
+            }, 
+            {
+                "count": 6, 
+                "rating": 4.0, 
+                "id": "tacos-cinco-de-mayo-hyattsville"
+            }
+        ]
+    }, 
+    {
+        "term": "dont_know", 
+        "restaurants": [
+            {
+                "count": 9, 
+                "rating": 4.5, 
+                "id": "marathon-deli-college-park"
+            }, 
+            {
+                "count": 12, 
+                "rating": 3.5, 
+                "id": "ten-rens-tea-time-college-park-2"
+            }, 
+            {
+                "count": 9, 
+                "rating": 3.0, 
+                "id": "bobbys-burger-palace-college-park"
+            }, 
+            {
+                "count": 5, 
+                "rating": 3.5, 
+                "id": "wasabi-bistro-college-park"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.5, 
+                "id": "terrapins-turf-college-park"
+            }, 
+            {
+                "count": 8, 
+                "rating": 3.5, 
+                "id": "the-jerk-pit-college-park"
+            }, 
+            {
+                "count": 6, 
+                "rating": 4.5, 
+                "id": "shagga-coffee-and-restaurant-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.0, 
+                "id": "prince-caf\u00e9-college-park-2"
+            }, 
+            {
+                "count": 5, 
+                "rating": 2.5, 
+                "id": "joes-crab-shack-greenbelt"
+            }, 
+            {
+                "count": 1, 
+                "rating": 4.0, 
+                "id": "steak-escape-hyattsville-2"
+            }, 
+            {
+                "count": 1, 
+                "rating": 3.5, 
+                "id": "samlina-restaurant-riverdale"
+            }, 
+            {
+                "count": 2, 
+                "rating": 3.0, 
+                "id": "shen-yang-chinese-restaurant-college-park"
+            }, 
+            {
+                "count": 1, 
+                "rating": 5.0, 
+                "id": "cluck-university-chicken-the-college-park"
+            }, 
+            {
+                "count": 1, 
+                "rating": 2.0, 
+                "id": "el-triufo-restaurant-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 4.0, 
+                "id": "mid-atlantic-seafood-hyattsville"
+            }
+        ]
+    }, 
+    {
+        "term": "parking_lot", 
+        "restaurants": [
+            {
+                "count": 4, 
+                "rating": 3.5, 
+                "id": "jasons-deli-college-park"
+            }, 
+            {
+                "count": 4, 
+                "rating": 2.0, 
+                "id": "applebees-college-park"
+            }, 
+            {
+                "count": 7, 
+                "rating": 2.5, 
+                "id": "china-buffet-college-park"
+            }, 
+            {
+                "count": 13, 
+                "rating": 4.0, 
+                "id": "franklins-restaurant-brewery-and-general-store-hyattsville"
+            }, 
+            {
+                "count": 1, 
+                "rating": 5.0, 
+                "id": "subway-college-park-2"
+            }, 
+            {
+                "count": 1, 
+                "rating": 4.0, 
+                "id": "caribbean-delight-hyattsville"
+            }, 
+            {
+                "count": 2, 
+                "rating": 2.0, 
+                "id": "bono-pizza-riverdale"
+            }
+        ]
+    }, 
+    {
+        "term": "never_order", 
+        "restaurants": [
+            {
+                "count": 1, 
+                "rating": 3.0, 
+                "id": "dominos-pizza-berwyn-heights"
+            }, 
+            {
+                "count": 1, 
+                "rating": 2.5, 
+                "id": "asian-carry-out-hyattsville"
+            }, 
+            {
+                "count": 1, 
+                "rating": 2.0, 
+                "id": "panda-china-hyattsville"
+            }, 
+            {
+                "count": 1, 
+                "rating": 3.0, 
+                "id": "heartys-2-hyattsville"
+            }, 
+            {
+                "count": 1, 
+                "rating": 3.5, 
+                "id": "dominos-pizza-hyattsville-4"
+            }
+        ]
+    }
+]
